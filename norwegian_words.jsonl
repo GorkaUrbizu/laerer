@@ -136,7 +136,7 @@
 {"norsk": "både", "engelsk": "both", "type": "Konjuksjoner"}
 {"norsk": "dersom", "engelsk": "if, whether", "type": "Konjuksjoner"}
 {"norsk": "eller", "engelsk": "or", "type": "Konjuksjoner"}
-{"norsk": "enda (mer)", "engelsk": "even (more)", "type": "Konjuksjoner"}
+{"norsk": "enda", "tillegg": "mer", "engelsk": "even (more)", "type": "Konjuksjoner"}
 {"norsk": "enn", "engelsk": "than", "type": "Konjuksjoner"}
 {"norsk": "fordi", "engelsk": "because", "type": "Konjuksjoner"}
 {"norsk": "hvis/om", "engelsk": "if", "type": "Konjuksjoner"}
@@ -278,7 +278,7 @@
 {"norsk": "tidlig", "engelsk": "early", "type": "Adjektiv"}
 {"norsk": "mulig", "engelsk": "possible", "type": "Adjektiv"}
 {"norsk": "klar", "engelsk": "ready; clear (meaning); bright (light)", "type": "Adjektiv"}
-{"norsk": "(de) andre", "engelsk": "(the) others", "type": "Adjektiv"}
+{"norsk": "andre", "artikkel": "de", "engelsk": "(the) others", "type": "Adjektiv"}
 {"norsk": "annen", "engelsk": "another", "type": "Adjektiv"}
 {"norsk": "egen", "engelsk": "one's own", "type": "Adjektiv"}
 {"norsk": "enkelt", "engelsk": "individual; simple", "type": "Adjektiv"}
@@ -287,8 +287,8 @@
 {"norsk": "samme", "engelsk": "the same", "type": "Andre ord"}
 {"norsk": "begge", "engelsk": "both", "type": "Andre ord"}
 {"norsk": "egentlig", "engelsk": "actually, in fact", "type": "Andre ord"}
-{"norsk": "de fleste", "engelsk": "majority, most", "type": "Andre ord"}
-{"norsk": "en/et slags", "engelsk": "some (kind of)", "type": "Andre ord"}
+{"norsk": "fleste", "artikkel": "de", "engelsk": "majority, most", "type": "Andre ord"}
+{"norsk": "slags", "artikkel": "en/et", "engelsk": "some (kind of)", "type": "Andre ord"}
 {"norsk": "i løpet av", "engelsk": "during", "type": "Andre ord"}
 {"norsk": "i tillegg", "engelsk": "in addition", "type": "Andre ord"}
 {"norsk": "til slutt", "engelsk": "finally; in the end", "type": "Andre ord"}

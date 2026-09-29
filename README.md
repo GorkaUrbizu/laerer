@@ -84,6 +84,10 @@ PDF lists without one (tid, krone, menneske, verden, prosent, politi, meter)
 use the standard Bokmål gender. Plurals and non-count words (mennesker,
 penger, alle, alt) have no article.
 
+The same field holds the article in fixed expressions: `de andre`,
+`de fleste`, `en/et slags`. An optional `tillegg` field adds a word after,
+e.g. `enda mer`. Both are shown in white; verbs get `å` automatically.
+
 `sentences.jsonl` has one example sentence per word, matched on `norsk` +
 `type`. The word to highlight is wrapped in `[brackets]`; nouns may appear in
 definite or plural form, adjectives inflected, and verbs in the present tense:

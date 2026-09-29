@@ -80,10 +80,13 @@ def load_words(path):
                 is_verb = wtype == "Verb" or engelsk.startswith("to ")
                 if not marker and is_verb and not norsk.startswith("det "):
                     marker = "å"
+                # Optional word shown after, e.g. "enda mer".
+                extra = entry.get("tillegg", "").strip()
                 words.append({
                     "norsk": norsk,
                     "markør": marker,
-                    "vis": f"{marker} {norsk}" if marker else norsk,
+                    "tillegg": extra,
+                    "vis": " ".join(p for p in (marker, norsk, extra) if p),
                     "engelsk": engelsk,
                     "type": wtype,
                 })
@@ -142,9 +145,10 @@ def build_question(word, groups, reverse):
 
 def norsk_text(word, *styles):
     """Norwegian word with its article / infinitive marker in plain white."""
-    marker = word["markør"]
+    marker, extra = word["markør"], word["tillegg"]
     prefix = c(marker, "white") + " " if marker else ""
-    return prefix + c(word["norsk"], *styles)
+    suffix = " " + c(extra, "white") if extra else ""
+    return prefix + c(word["norsk"], *styles) + suffix
 
 
 # ------------------------------------------------------------------- game --
