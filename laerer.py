@@ -72,13 +72,19 @@ def load_words(path):
             try:
                 entry = json.loads(line)
                 norsk = entry["norsk"].strip()
-                article = entry.get("artikkel", "").strip()
+                engelsk = entry["engelsk"].strip()
+                wtype = entry["type"].strip()
+                # Shown to the player: "(et) år" teaches gender, "(å) like"
+                # marks infinitives (also "bli med", filed under "Andre ord").
+                marker = entry.get("artikkel", "").strip()
+                is_verb = wtype == "Verb" or engelsk.startswith("to ")
+                if not marker and is_verb and not norsk.startswith("det "):
+                    marker = "å"
                 words.append({
                     "norsk": norsk,
-                    # Shown to the player, e.g. "(et) år", to teach gender.
-                    "vis": f"({article}) {norsk}" if article else norsk,
-                    "engelsk": entry["engelsk"].strip(),
-                    "type": entry["type"].strip(),
+                    "vis": f"({marker}) {norsk}" if marker else norsk,
+                    "engelsk": engelsk,
+                    "type": wtype,
                 })
             except (json.JSONDecodeError, KeyError) as e:
                 print(c(f"Skipping line {lineno}: {e}", "yellow"), file=sys.stderr)

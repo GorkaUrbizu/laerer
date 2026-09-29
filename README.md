@@ -4,7 +4,8 @@ A colorful terminal quiz for learning Norwegian words.
 
 A multiple-choice quiz over the 300 most frequently used Norwegian words (from
 the Norwegian Academy list). Each question shows the word, with its article for
-nouns so you learn the gender (`(et) år`, `(ei, en) jente`), next to a short,
+nouns so you learn the gender (`(et) år`, `(ei) jente`) and the infinitive
+marker for verbs (`(å) like`), next to a short,
 simple example sentence (A1-A2 level) with the word highlighted, and four
 possible English translations.
 The three wrong options (distractors) are always taken from the same word type
