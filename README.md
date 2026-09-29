@@ -71,8 +71,14 @@ top of `laerer.py`.
 {"norsk": "år", "artikkel": "et", "engelsk": "year", "type": "Substantiver"}
 ```
 
-Nouns have an optional `artikkel` field (`en`, `et`, `ei, en` or `en, ei`),
-shown in the game as `(et) år`. Articles come from the PDF; the few nouns the
+Nouns have an optional `artikkel` field (`en`, `et` or `ei`), shown in the
+game as `(et) år`. Every noun that can be feminine (mor, kvinne, jente, hånd,
+stund, dør, krone, side, sak, tid, regjering) is marked `ei`, and the
+sentences use the feminine definite form (`Mora mi`, `hånda`, `Tida`) so the
+gender is visible. In Bokmål these can also take `en` (`moren min`), but
+masculine nouns can never take `ei`, so learning the feminine ones as feminine
+and defaulting to `en` when unsure is the safe strategy. Other articles come
+from the PDF; the few nouns the
 PDF lists without one (tid, krone, menneske, verden, prosent, politi, meter)
 use the standard Bokmål gender. Plurals and non-count words (mennesker,
 penger, alle, alt) have no article.

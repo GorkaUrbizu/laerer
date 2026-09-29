@@ -5,7 +5,7 @@
 {"norsk": "land", "type": "Substantiver", "setning": "Norge er et kaldt [land].", "oversettelse": "Norway is a cold country."}
 {"norsk": "plass", "type": "Substantiver", "setning": "Er denne [plassen] ledig?", "oversettelse": "Is this seat free?"}
 {"norsk": "vei", "type": "Substantiver", "setning": "Denne [veien] går til byen.", "oversettelse": "This road goes to the town."}
-{"norsk": "side", "type": "Substantiver", "setning": "Les [side] ti i boka.", "oversettelse": "Read page ten in the book."}
+{"norsk": "side", "type": "Substantiver", "setning": "Les [sida] om Norge i boka.", "oversettelse": "Read the page about Norway in the book."}
 {"norsk": "ord", "type": "Substantiver", "setning": "Jeg lærer nye [ord] hver dag.", "oversettelse": "I learn new words every day."}
 {"norsk": "par", "type": "Substantiver", "setning": "De er et fint [par].", "oversettelse": "They are a nice couple."}
 {"norsk": "kunde", "type": "Substantiver", "setning": "[Kunden] vil betale nå.", "oversettelse": "The customer wants to pay now."}
@@ -18,17 +18,17 @@
 {"norsk": "mål", "type": "Substantiver", "setning": "Hva er [målet] ditt?", "oversettelse": "What is your goal?"}
 {"norsk": "seier", "type": "Substantiver", "setning": "Laget feirer [seieren].", "oversettelse": "The team celebrates the victory."}
 {"norsk": "måte", "type": "Substantiver", "setning": "Det er en god [måte] å lære på.", "oversettelse": "It is a good way to learn."}
-{"norsk": "sak", "type": "Substantiver", "setning": "Det er en viktig [sak].", "oversettelse": "It is an important matter."}
-{"norsk": "stund", "type": "Substantiver", "setning": "Vent en [stund], er du snill.", "oversettelse": "Wait a while, please."}
+{"norsk": "sak", "type": "Substantiver", "setning": "Det er ei viktig [sak].", "oversettelse": "It is an important matter."}
+{"norsk": "stund", "type": "Substantiver", "setning": "Vent ei [stund], er du snill.", "oversettelse": "Wait a while, please."}
 {"norsk": "spørsmål", "type": "Substantiver", "setning": "Kan jeg stille et [spørsmål]?", "oversettelse": "Can I ask a question?"}
-{"norsk": "regjering", "type": "Substantiver", "setning": "[Regjeringen] har et møte i dag.", "oversettelse": "The government has a meeting today."}
+{"norsk": "regjering", "type": "Substantiver", "setning": "[Regjeringa] har et møte i dag.", "oversettelse": "The government has a meeting today."}
 {"norsk": "eksempel", "type": "Substantiver", "setning": "Kan du gi et [eksempel]?", "oversettelse": "Can you give an example?"}
 {"norsk": "kamp", "type": "Substantiver", "setning": "Vi ser på [kampen] i kveld.", "oversettelse": "We are watching the match tonight."}
 {"norsk": "slutt", "type": "Substantiver", "setning": "Filmen har en fin [slutt].", "oversettelse": "The film has a nice ending."}
 {"norsk": "alle", "type": "Substantiver", "setning": "[Alle] er her nå.", "oversettelse": "Everyone is here now."}
 {"norsk": "alt", "type": "Substantiver", "setning": "[Alt] er bra.", "oversettelse": "Everything is fine."}
-{"norsk": "tid", "type": "Substantiver", "setning": "Jeg har ikke [tid] nå.", "oversettelse": "I don't have time now."}
-{"norsk": "krone", "type": "Substantiver", "setning": "Kaffen koster tretti [kroner].", "oversettelse": "The coffee costs thirty kroner."}
+{"norsk": "tid", "type": "Substantiver", "setning": "[Tida] går fort.", "oversettelse": "Time flies."}
+{"norsk": "krone", "type": "Substantiver", "setning": "Det koster bare ei [krone].", "oversettelse": "It only costs one krone."}
 {"norsk": "menneske", "type": "Substantiver", "setning": "Hun er et snilt [menneske].", "oversettelse": "She is a kind person."}
 {"norsk": "mennesker", "type": "Substantiver", "setning": "Det er mange [mennesker] i byen.", "oversettelse": "There are many people in the city."}
 {"norsk": "verden", "type": "Substantiver", "setning": "[Verden] er stor.", "oversettelse": "The world is big."}
@@ -232,7 +232,7 @@
 {"norsk": "kjent", "type": "Adjektiv", "setning": "Hun er en [kjent] sanger.", "oversettelse": "She is a famous singer."}
 {"norsk": "fast", "type": "Adjektiv", "setning": "Han har en [fast] jobb.", "oversettelse": "He has a permanent job."}
 {"norsk": "lett", "type": "Adjektiv", "setning": "Norsk er [lett]!", "oversettelse": "Norwegian is easy!"}
-{"norsk": "vanskelig", "type": "Adjektiv", "setning": "Oppgaven er [vanskelig].", "oversettelse": "The task is difficult."}
+{"norsk": "vanskelig", "type": "Adjektiv", "setning": "Oppgava er [vanskelig].", "oversettelse": "The task is difficult."}
 {"norsk": "full", "type": "Adjektiv", "setning": "Bussen er [full].", "oversettelse": "The bus is full."}
 {"norsk": "hel", "type": "Adjektiv", "setning": "Jeg spiser en [hel] pizza.", "oversettelse": "I eat a whole pizza."}
 {"norsk": "glad", "type": "Adjektiv", "setning": "Barna er [glade].", "oversettelse": "The children are happy."}
@@ -273,10 +273,10 @@
 {"norsk": "dag", "type": "Substantiver", "setning": "Jeg jobber hver [dag].", "oversettelse": "I work every day."}
 {"norsk": "kveld", "type": "Substantiver", "setning": "Vi ser på TV i [kveld].", "oversettelse": "We are watching TV this evening."}
 {"norsk": "barn", "type": "Substantiver", "setning": "De har to [barn].", "oversettelse": "They have two children."}
-{"norsk": "mor", "type": "Substantiver", "setning": "[Moren] min heter Anna.", "oversettelse": "My mother is called Anna."}
+{"norsk": "mor", "type": "Substantiver", "setning": "[Mora] mi heter Anna.", "oversettelse": "My mother is called Anna."}
 {"norsk": "far", "type": "Substantiver", "setning": "[Faren] min er lærer.", "oversettelse": "My father is a teacher."}
-{"norsk": "mann", "type": "Substantiver", "setning": "[Mannen] leser avisen.", "oversettelse": "The man is reading the newspaper."}
-{"norsk": "kvinne", "type": "Substantiver", "setning": "Hun er en sterk [kvinne].", "oversettelse": "She is a strong woman."}
+{"norsk": "mann", "type": "Substantiver", "setning": "[Mannen] leser avisa.", "oversettelse": "The man is reading the newspaper."}
+{"norsk": "kvinne", "type": "Substantiver", "setning": "Hun er ei sterk [kvinne].", "oversettelse": "She is a strong woman."}
 {"norsk": "jente", "type": "Substantiver", "setning": "[Jenta] leker i hagen.", "oversettelse": "The girl is playing in the garden."}
 {"norsk": "gutt", "type": "Substantiver", "setning": "[Gutten] spiser et eple.", "oversettelse": "The boy is eating an apple."}
 {"norsk": "liv", "type": "Substantiver", "setning": "[Livet] er fint.", "oversettelse": "Life is good."}
@@ -284,7 +284,7 @@
 {"norsk": "hus", "type": "Substantiver", "setning": "Vi bor i et rødt [hus].", "oversettelse": "We live in a red house."}
 {"norsk": "skole", "type": "Substantiver", "setning": "Barna går på [skolen].", "oversettelse": "The children go to school."}
 {"norsk": "by", "type": "Substantiver", "setning": "Bergen er en fin [by].", "oversettelse": "Bergen is a nice city."}
-{"norsk": "hånd", "type": "Substantiver", "setning": "Vask [hendene] dine!", "oversettelse": "Wash your hands!"}
+{"norsk": "hånd", "type": "Substantiver", "setning": "Jeg har vondt i [hånda].", "oversettelse": "My hand hurts."}
 {"norsk": "arbeid", "type": "Substantiver", "setning": "Han har mye [arbeid] i dag.", "oversettelse": "He has a lot of work today."}
 {"norsk": "hjelp", "type": "Substantiver", "setning": "Takk for [hjelpen]!", "oversettelse": "Thanks for the help!"}
 {"norsk": "dør", "type": "Substantiver", "setning": "Kan du lukke [døra]?", "oversettelse": "Can you close the door?"}

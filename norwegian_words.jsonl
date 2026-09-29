@@ -2,11 +2,11 @@
 {"norsk": "dag", "artikkel": "en", "engelsk": "day", "type": "Substantiver"}
 {"norsk": "kveld", "artikkel": "en", "engelsk": "evening", "type": "Substantiver"}
 {"norsk": "barn", "artikkel": "et", "engelsk": "child", "type": "Substantiver"}
-{"norsk": "mor", "artikkel": "ei, en", "engelsk": "mother", "type": "Substantiver"}
+{"norsk": "mor", "artikkel": "ei", "engelsk": "mother", "type": "Substantiver"}
 {"norsk": "far", "artikkel": "en", "engelsk": "father", "type": "Substantiver"}
 {"norsk": "mann", "artikkel": "en", "engelsk": "man", "type": "Substantiver"}
-{"norsk": "kvinne", "artikkel": "ei, en", "engelsk": "woman", "type": "Substantiver"}
-{"norsk": "jente", "artikkel": "ei, en", "engelsk": "girl", "type": "Substantiver"}
+{"norsk": "kvinne", "artikkel": "ei", "engelsk": "woman", "type": "Substantiver"}
+{"norsk": "jente", "artikkel": "ei", "engelsk": "girl", "type": "Substantiver"}
 {"norsk": "gutt", "artikkel": "en", "engelsk": "boy", "type": "Substantiver"}
 {"norsk": "gang", "artikkel": "en", "engelsk": "sometime", "type": "Substantiver"}
 {"norsk": "liv", "artikkel": "et", "engelsk": "life", "type": "Substantiver"}
@@ -20,7 +20,7 @@
 {"norsk": "land", "artikkel": "et", "engelsk": "country", "type": "Substantiver"}
 {"norsk": "plass", "artikkel": "en", "engelsk": "square; seat", "type": "Substantiver"}
 {"norsk": "vei", "artikkel": "en", "engelsk": "way; path", "type": "Substantiver"}
-{"norsk": "side", "artikkel": "en", "engelsk": "side; page", "type": "Substantiver"}
+{"norsk": "side", "artikkel": "ei", "engelsk": "side; page", "type": "Substantiver"}
 {"norsk": "ord", "artikkel": "et", "engelsk": "word", "type": "Substantiver"}
 {"norsk": "par", "artikkel": "et", "engelsk": "pair; couple", "type": "Substantiver"}
 {"norsk": "kunde", "artikkel": "en", "engelsk": "customer", "type": "Substantiver"}
@@ -28,26 +28,26 @@
 {"norsk": "foto", "artikkel": "et", "engelsk": "photo", "type": "Substantiver"}
 {"norsk": "hode", "artikkel": "et", "engelsk": "head", "type": "Substantiver"}
 {"norsk": "ansikt", "artikkel": "et", "engelsk": "face", "type": "Substantiver"}
-{"norsk": "hånd", "artikkel": "en, ei", "engelsk": "hand", "type": "Substantiver"}
+{"norsk": "hånd", "artikkel": "ei", "engelsk": "hand", "type": "Substantiver"}
 {"norsk": "øye", "artikkel": "et", "engelsk": "eye", "type": "Substantiver"}
 {"norsk": "møte", "artikkel": "et", "engelsk": "meeting", "type": "Substantiver"}
 {"norsk": "mål", "artikkel": "et", "engelsk": "aim; goal", "type": "Substantiver"}
 {"norsk": "seier", "artikkel": "en", "engelsk": "victory, win", "type": "Substantiver"}
 {"norsk": "måte", "artikkel": "en", "engelsk": "manner, way (of doing things)", "type": "Substantiver"}
-{"norsk": "sak", "artikkel": "en", "engelsk": "issue, matter, business (concern)", "type": "Substantiver"}
+{"norsk": "sak", "artikkel": "ei", "engelsk": "issue, matter, business (concern)", "type": "Substantiver"}
 {"norsk": "arbeid", "artikkel": "et", "engelsk": "work", "type": "Substantiver"}
-{"norsk": "stund", "artikkel": "en, ei", "engelsk": "moment; while", "type": "Substantiver"}
+{"norsk": "stund", "artikkel": "ei", "engelsk": "moment; while", "type": "Substantiver"}
 {"norsk": "hjelp", "artikkel": "en", "engelsk": "help", "type": "Substantiver"}
 {"norsk": "spørsmål", "artikkel": "et", "engelsk": "question", "type": "Substantiver"}
-{"norsk": "regjering", "artikkel": "en", "engelsk": "government", "type": "Substantiver"}
+{"norsk": "regjering", "artikkel": "ei", "engelsk": "government", "type": "Substantiver"}
 {"norsk": "eksempel", "artikkel": "et", "engelsk": "example", "type": "Substantiver"}
 {"norsk": "kamp", "artikkel": "en", "engelsk": "fight, battle; match", "type": "Substantiver"}
-{"norsk": "dør", "artikkel": "en, ei", "engelsk": "door", "type": "Substantiver"}
+{"norsk": "dør", "artikkel": "ei", "engelsk": "door", "type": "Substantiver"}
 {"norsk": "slutt", "artikkel": "en", "engelsk": "end", "type": "Substantiver"}
 {"norsk": "alle", "engelsk": "all", "type": "Substantiver"}
 {"norsk": "alt", "engelsk": "everything", "type": "Substantiver"}
-{"norsk": "tid", "artikkel": "en", "engelsk": "time", "type": "Substantiver"}
-{"norsk": "krone", "artikkel": "ei, en", "engelsk": "krone (currency); crown", "type": "Substantiver"}
+{"norsk": "tid", "artikkel": "ei", "engelsk": "time", "type": "Substantiver"}
+{"norsk": "krone", "artikkel": "ei", "engelsk": "krone (currency); crown", "type": "Substantiver"}
 {"norsk": "menneske", "artikkel": "et", "engelsk": "person", "type": "Substantiver"}
 {"norsk": "mennesker", "engelsk": "people", "type": "Substantiver"}
 {"norsk": "verden", "artikkel": "en", "engelsk": "world", "type": "Substantiver"}
