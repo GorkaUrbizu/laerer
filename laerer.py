@@ -5,6 +5,7 @@ import argparse
 import json
 import os
 import random
+import re
 import sys
 from pathlib import Path
 
@@ -70,8 +71,12 @@ def load_words(path):
                 continue
             try:
                 entry = json.loads(line)
+                norsk = entry["norsk"].strip()
+                article = entry.get("artikkel", "").strip()
                 words.append({
-                    "norsk": entry["norsk"].strip(),
+                    "norsk": norsk,
+                    # Shown to the player, e.g. "(et) år", to teach gender.
+                    "vis": f"({article}) {norsk}" if article else norsk,
                     "engelsk": entry["engelsk"].strip(),
                     "type": entry["type"].strip(),
                 })
@@ -88,11 +93,15 @@ def group_by_type(words):
 
 
 def meanings(english):
-    """Split 'to hear, to listen; to obey' into {'hear', 'listen', 'obey'}."""
-    parts = english.replace(";", ",").split(",")
+    """Split 'to hear, to listen; to obey' into {'hear', 'listen', 'obey'}.
+
+    Notes in parentheses are ignored, so 'you (plural)' overlaps with 'you'.
+    """
+    parts = english.replace(";", ",").replace("/", ",").split(",")
     result = set()
     for p in parts:
-        p = p.strip().lower()
+        p = re.sub(r"\([^)]*\)", "", p)
+        p = " ".join(p.split()).lower()
         if p.startswith("to "):
             p = p[3:]
         if p:
@@ -102,7 +111,7 @@ def meanings(english):
 
 def build_question(word, groups, reverse):
     """Return (prompt, options, correct_index) using same-type distractors."""
-    ask, answer = ("engelsk", "norsk") if reverse else ("norsk", "engelsk")
+    ask, answer = ("engelsk", "vis") if reverse else ("vis", "engelsk")
     correct = word[answer]
 
     # Distractors: same type, no shared meaning with the correct word
@@ -208,11 +217,11 @@ def play(words, num_questions, reverse, uniform=False, sentences=None):
         print(c(f"  Question {i}/{num_questions}", "bold", "blue")
               + c(f"  [{wtype}]", "magenta"))
         print()
+        line = "    " + c(prompt, "bold", "bright_yellow")
         # In reverse mode the Norwegian sentence would give the answer away.
         if example and not reverse:
-            print("    " + highlight(example["setning"]))
-        else:
-            print("    " + c(prompt, "bold", "bright_yellow"))
+            line += c("   ·   ", "grey") + highlight(example["setning"])
+        print(line)
         print()
         for j, opt in enumerate(options):
             print(f"    {c(LABELS[j], 'bold', 'cyan')}{c(')', 'grey')} {opt}")
@@ -241,7 +250,7 @@ def play(words, num_questions, reverse, uniform=False, sentences=None):
                   + c(f"{LABELS[choice]}) {options[choice]}", "red"))
             print("  " + c("Correct answer: ", "grey")
                   + c(correct_text, "bold", "green"))
-        print("  " + c(f"{word['norsk']}", "bright_cyan")
+        print("  " + c(word["vis"], "bright_cyan")
               + c(" = ", "grey") + c(word["engelsk"], "white"))
         if example and not ok:
             if reverse:
@@ -284,10 +293,10 @@ def show_results(results):
     print(f"  {c(msg, 'italic', color)}")
     print()
 
-    width = max(len(r["word"]["norsk"]) for r in results) + 2
+    width = max(len(r["word"]["vis"]) for r in results) + 2
     for i, r in enumerate(results, 1):
         mark = c("+", "bold", "green") if r["ok"] else c("x", "bold", "red")
-        norsk = c(r["word"]["norsk"].ljust(width), "bright_cyan")
+        norsk = c(r["word"]["vis"].ljust(width), "bright_cyan")
         line = f"  {c(f'{i:>2}.', 'grey')} {mark} {norsk}{r['word']['engelsk']}"
         if not r["ok"]:
             line += c(f"   (you: {r['given']})", "red")

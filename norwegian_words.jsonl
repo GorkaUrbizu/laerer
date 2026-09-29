@@ -1,41 +1,67 @@
-{"norsk": "gang", "engelsk": "sometime", "type": "Substantiver"}
-{"norsk": "del", "engelsk": "part", "type": "Substantiver"}
-{"norsk": "grunn", "engelsk": "cause", "type": "Substantiver"}
-{"norsk": "sted", "engelsk": "place, spot", "type": "Substantiver"}
-{"norsk": "land", "engelsk": "country", "type": "Substantiver"}
-{"norsk": "plass", "engelsk": "square; seat", "type": "Substantiver"}
-{"norsk": "vei", "engelsk": "way; path", "type": "Substantiver"}
-{"norsk": "side", "engelsk": "side; page", "type": "Substantiver"}
-{"norsk": "ord", "engelsk": "word", "type": "Substantiver"}
-{"norsk": "par", "engelsk": "pair; couple", "type": "Substantiver"}
-{"norsk": "kunde", "engelsk": "customer", "type": "Substantiver"}
-{"norsk": "forhold", "engelsk": "relationship", "type": "Substantiver"}
-{"norsk": "foto", "engelsk": "photo", "type": "Substantiver"}
-{"norsk": "hode", "engelsk": "head", "type": "Substantiver"}
-{"norsk": "ansikt", "engelsk": "face", "type": "Substantiver"}
-{"norsk": "øye", "engelsk": "eye", "type": "Substantiver"}
-{"norsk": "møte", "engelsk": "meeting", "type": "Substantiver"}
-{"norsk": "mål", "engelsk": "aim; goal", "type": "Substantiver"}
-{"norsk": "seier", "engelsk": "victory, win", "type": "Substantiver"}
-{"norsk": "måte", "engelsk": "manner, way", "type": "Substantiver"}
-{"norsk": "sak", "engelsk": "issue, matter, business", "type": "Substantiver"}
-{"norsk": "stund", "engelsk": "moment; while", "type": "Substantiver"}
-{"norsk": "spørsmål", "engelsk": "question", "type": "Substantiver"}
-{"norsk": "regjering", "engelsk": "government", "type": "Substantiver"}
-{"norsk": "eksempel", "engelsk": "example", "type": "Substantiver"}
-{"norsk": "kamp", "engelsk": "fight, battle; match", "type": "Substantiver"}
-{"norsk": "slutt", "engelsk": "end", "type": "Substantiver"}
+{"norsk": "år", "artikkel": "et", "engelsk": "year", "type": "Substantiver"}
+{"norsk": "dag", "artikkel": "en", "engelsk": "day", "type": "Substantiver"}
+{"norsk": "kveld", "artikkel": "en", "engelsk": "evening", "type": "Substantiver"}
+{"norsk": "barn", "artikkel": "et", "engelsk": "child", "type": "Substantiver"}
+{"norsk": "mor", "artikkel": "ei, en", "engelsk": "mother", "type": "Substantiver"}
+{"norsk": "far", "artikkel": "en", "engelsk": "father", "type": "Substantiver"}
+{"norsk": "mann", "artikkel": "en", "engelsk": "man", "type": "Substantiver"}
+{"norsk": "kvinne", "artikkel": "ei, en", "engelsk": "woman", "type": "Substantiver"}
+{"norsk": "jente", "artikkel": "ei, en", "engelsk": "girl", "type": "Substantiver"}
+{"norsk": "gutt", "artikkel": "en", "engelsk": "boy", "type": "Substantiver"}
+{"norsk": "gang", "artikkel": "en", "engelsk": "sometime", "type": "Substantiver"}
+{"norsk": "liv", "artikkel": "et", "engelsk": "life", "type": "Substantiver"}
+{"norsk": "del", "artikkel": "en", "engelsk": "part", "type": "Substantiver"}
+{"norsk": "ting", "artikkel": "en", "engelsk": "thing", "type": "Substantiver"}
+{"norsk": "grunn", "artikkel": "en", "engelsk": "cause", "type": "Substantiver"}
+{"norsk": "sted", "artikkel": "et", "engelsk": "place, spot", "type": "Substantiver"}
+{"norsk": "hus", "artikkel": "et", "engelsk": "house", "type": "Substantiver"}
+{"norsk": "skole", "artikkel": "en", "engelsk": "school", "type": "Substantiver"}
+{"norsk": "by", "artikkel": "en", "engelsk": "city", "type": "Substantiver"}
+{"norsk": "land", "artikkel": "et", "engelsk": "country", "type": "Substantiver"}
+{"norsk": "plass", "artikkel": "en", "engelsk": "square; seat", "type": "Substantiver"}
+{"norsk": "vei", "artikkel": "en", "engelsk": "way; path", "type": "Substantiver"}
+{"norsk": "side", "artikkel": "en", "engelsk": "side; page", "type": "Substantiver"}
+{"norsk": "ord", "artikkel": "et", "engelsk": "word", "type": "Substantiver"}
+{"norsk": "par", "artikkel": "et", "engelsk": "pair; couple", "type": "Substantiver"}
+{"norsk": "kunde", "artikkel": "en", "engelsk": "customer", "type": "Substantiver"}
+{"norsk": "forhold", "artikkel": "et", "engelsk": "relationship", "type": "Substantiver"}
+{"norsk": "foto", "artikkel": "et", "engelsk": "photo", "type": "Substantiver"}
+{"norsk": "hode", "artikkel": "et", "engelsk": "head", "type": "Substantiver"}
+{"norsk": "ansikt", "artikkel": "et", "engelsk": "face", "type": "Substantiver"}
+{"norsk": "hånd", "artikkel": "en, ei", "engelsk": "hand", "type": "Substantiver"}
+{"norsk": "øye", "artikkel": "et", "engelsk": "eye", "type": "Substantiver"}
+{"norsk": "møte", "artikkel": "et", "engelsk": "meeting", "type": "Substantiver"}
+{"norsk": "mål", "artikkel": "et", "engelsk": "aim; goal", "type": "Substantiver"}
+{"norsk": "seier", "artikkel": "en", "engelsk": "victory, win", "type": "Substantiver"}
+{"norsk": "måte", "artikkel": "en", "engelsk": "manner, way (of doing things)", "type": "Substantiver"}
+{"norsk": "sak", "artikkel": "en", "engelsk": "issue, matter, business (concern)", "type": "Substantiver"}
+{"norsk": "arbeid", "artikkel": "et", "engelsk": "work", "type": "Substantiver"}
+{"norsk": "stund", "artikkel": "en, ei", "engelsk": "moment; while", "type": "Substantiver"}
+{"norsk": "hjelp", "artikkel": "en", "engelsk": "help", "type": "Substantiver"}
+{"norsk": "spørsmål", "artikkel": "et", "engelsk": "question", "type": "Substantiver"}
+{"norsk": "regjering", "artikkel": "en", "engelsk": "government", "type": "Substantiver"}
+{"norsk": "eksempel", "artikkel": "et", "engelsk": "example", "type": "Substantiver"}
+{"norsk": "kamp", "artikkel": "en", "engelsk": "fight, battle; match", "type": "Substantiver"}
+{"norsk": "dør", "artikkel": "en, ei", "engelsk": "door", "type": "Substantiver"}
+{"norsk": "slutt", "artikkel": "en", "engelsk": "end", "type": "Substantiver"}
 {"norsk": "alle", "engelsk": "all", "type": "Substantiver"}
 {"norsk": "alt", "engelsk": "everything", "type": "Substantiver"}
-{"norsk": "tid", "engelsk": "time", "type": "Substantiver"}
-{"norsk": "krone", "engelsk": "krone (currency); crown", "type": "Substantiver"}
-{"norsk": "menneske", "engelsk": "person", "type": "Substantiver"}
+{"norsk": "tid", "artikkel": "en", "engelsk": "time", "type": "Substantiver"}
+{"norsk": "krone", "artikkel": "ei, en", "engelsk": "krone (currency); crown", "type": "Substantiver"}
+{"norsk": "menneske", "artikkel": "et", "engelsk": "person", "type": "Substantiver"}
 {"norsk": "mennesker", "engelsk": "people", "type": "Substantiver"}
-{"norsk": "verden", "engelsk": "world", "type": "Substantiver"}
-{"norsk": "prosent", "engelsk": "percent", "type": "Substantiver"}
+{"norsk": "verden", "artikkel": "en", "engelsk": "world", "type": "Substantiver"}
+{"norsk": "prosent", "artikkel": "en", "engelsk": "percent", "type": "Substantiver"}
 {"norsk": "penger", "engelsk": "money", "type": "Substantiver"}
-{"norsk": "politi", "engelsk": "police", "type": "Substantiver"}
-{"norsk": "meter", "engelsk": "meter", "type": "Substantiver"}
+{"norsk": "politi", "artikkel": "et", "engelsk": "police", "type": "Substantiver"}
+{"norsk": "meter", "artikkel": "en", "engelsk": "meter", "type": "Substantiver"}
+{"norsk": "jeg", "engelsk": "I", "type": "Pronomener"}
+{"norsk": "du", "engelsk": "you", "type": "Pronomener"}
+{"norsk": "han", "engelsk": "he", "type": "Pronomener"}
+{"norsk": "hun", "engelsk": "she", "type": "Pronomener"}
+{"norsk": "vi", "engelsk": "we", "type": "Pronomener"}
+{"norsk": "dere", "engelsk": "you (plural)", "type": "Pronomener"}
+{"norsk": "de", "engelsk": "they", "type": "Pronomener"}
 {"norsk": "noen", "engelsk": "someone", "type": "Pronomener"}
 {"norsk": "noe", "engelsk": "something", "type": "Pronomener"}
 {"norsk": "ingenting", "engelsk": "nothing", "type": "Pronomener"}
@@ -58,7 +84,7 @@
 {"norsk": "følge", "engelsk": "to follow", "type": "Verb"}
 {"norsk": "få", "engelsk": "to get, to receive", "type": "Verb"}
 {"norsk": "gi", "engelsk": "to give", "type": "Verb"}
-{"norsk": "gjelde", "engelsk": "to concern, to regard", "type": "Verb"}
+{"norsk": "gjelde", "engelsk": "to concern, to regard (sb/sth)", "type": "Verb"}
 {"norsk": "gjøre", "engelsk": "to do", "type": "Verb"}
 {"norsk": "gå", "engelsk": "to walk, go on foot", "type": "Verb"}
 {"norsk": "ha", "engelsk": "to have", "type": "Verb"}
@@ -74,9 +100,9 @@
 {"norsk": "legge", "engelsk": "to put down; to lay; to put", "type": "Verb"}
 {"norsk": "ligge", "engelsk": "to lie (be located)", "type": "Verb"}
 {"norsk": "like", "engelsk": "to like", "type": "Verb"}
-{"norsk": "mene", "engelsk": "to think; to mean", "type": "Verb"}
+{"norsk": "mene", "engelsk": "to think; to mean (have in mind)", "type": "Verb"}
 {"norsk": "måtte", "engelsk": "must; have to", "type": "Verb"}
-{"norsk": "rekke", "engelsk": "to manage, to catch", "type": "Verb"}
+{"norsk": "rekke", "engelsk": "to manage (have the time to), to catch", "type": "Verb"}
 {"norsk": "se", "engelsk": "to see", "type": "Verb"}
 {"norsk": "sette", "engelsk": "to put; to arrange", "type": "Verb"}
 {"norsk": "si", "engelsk": "to say", "type": "Verb"}
@@ -98,6 +124,7 @@
 {"norsk": "vite", "engelsk": "to know", "type": "Verb"}
 {"norsk": "være", "engelsk": "to be", "type": "Verb"}
 {"norsk": "ønske", "engelsk": "to wish (to desire)", "type": "Verb"}
+{"norsk": "det finnes", "engelsk": "there is/there are", "type": "Verb"}
 {"norsk": "Hva", "engelsk": "What", "type": "Spørreord"}
 {"norsk": "Hvem", "engelsk": "Who", "type": "Spørreord"}
 {"norsk": "Hvor", "engelsk": "Where", "type": "Spørreord"}
@@ -109,10 +136,10 @@
 {"norsk": "både", "engelsk": "both", "type": "Konjuksjoner"}
 {"norsk": "dersom", "engelsk": "if, whether", "type": "Konjuksjoner"}
 {"norsk": "eller", "engelsk": "or", "type": "Konjuksjoner"}
-{"norsk": "enda", "engelsk": "even (more)", "type": "Konjuksjoner"}
+{"norsk": "enda (mer)", "engelsk": "even (more)", "type": "Konjuksjoner"}
 {"norsk": "enn", "engelsk": "than", "type": "Konjuksjoner"}
 {"norsk": "fordi", "engelsk": "because", "type": "Konjuksjoner"}
-{"norsk": "hvis", "engelsk": "if", "type": "Konjuksjoner"}
+{"norsk": "hvis/om", "engelsk": "if", "type": "Konjuksjoner"}
 {"norsk": "men", "engelsk": "but", "type": "Konjuksjoner"}
 {"norsk": "og", "engelsk": "and", "type": "Konjuksjoner"}
 {"norsk": "siden", "engelsk": "since", "type": "Konjuksjoner"}
@@ -123,7 +150,7 @@
 {"norsk": "til", "engelsk": "to; until", "type": "Preposisjoner"}
 {"norsk": "mot", "engelsk": "towards", "type": "Preposisjoner"}
 {"norsk": "fra", "engelsk": "from", "type": "Preposisjoner"}
-{"norsk": "av", "engelsk": "by; of; from", "type": "Preposisjoner"}
+{"norsk": "av", "engelsk": "by (sb); of; from", "type": "Preposisjoner"}
 {"norsk": "for", "engelsk": "for", "type": "Preposisjoner"}
 {"norsk": "med", "engelsk": "with", "type": "Preposisjoner"}
 {"norsk": "uten", "engelsk": "without", "type": "Preposisjoner"}
@@ -157,8 +184,8 @@
 {"norsk": "nå", "engelsk": "now", "type": "Adverb"}
 {"norsk": "da", "engelsk": "then", "type": "Adverb"}
 {"norsk": "bare", "engelsk": "only, just", "type": "Adverb"}
-{"norsk": "opp", "engelsk": "up, upwards", "type": "Adverb"}
-{"norsk": "oppe", "engelsk": "up, upstairs", "type": "Adverb"}
+{"norsk": "opp", "engelsk": "up, upwards (direction)", "type": "Adverb"}
+{"norsk": "oppe", "engelsk": "up, upstairs (location)", "type": "Adverb"}
 {"norsk": "ned", "engelsk": "down, downwards", "type": "Adverb"}
 {"norsk": "der", "engelsk": "there", "type": "Adverb"}
 {"norsk": "her", "engelsk": "here", "type": "Adverb"}
@@ -180,6 +207,8 @@
 {"norsk": "lenge", "engelsk": "long (about time)", "type": "Adverb"}
 {"norsk": "nesten", "engelsk": "almost", "type": "Adverb"}
 {"norsk": "frem", "engelsk": "ahead", "type": "Adverb"}
+{"norsk": "bak", "engelsk": "at the back", "type": "Adverb"}
+{"norsk": "bort", "engelsk": "away", "type": "Adverb"}
 {"norsk": "mest", "engelsk": "the most", "type": "Adverb"}
 {"norsk": "tidligere", "engelsk": "earlier, sooner, before", "type": "Adverb"}
 {"norsk": "senere", "engelsk": "later", "type": "Adverb"}
@@ -187,7 +216,7 @@
 {"norsk": "meget", "engelsk": "very", "type": "Adverb"}
 {"norsk": "lite", "engelsk": "little (not much)", "type": "Adverb"}
 {"norsk": "ikke ennå", "engelsk": "not yet", "type": "Adverb"}
-{"norsk": "allerede", "engelsk": "already, yet", "type": "Adverb"}
+{"norsk": "allerede", "engelsk": "already, yet (in questions)", "type": "Adverb"}
 {"norsk": "inne", "engelsk": "indoors, inside", "type": "Adverb"}
 {"norsk": "ute", "engelsk": "outside, outdoors", "type": "Adverb"}
 {"norsk": "hjem", "engelsk": "home (direction)", "type": "Adverb"}
@@ -248,8 +277,8 @@
 {"norsk": "riktig", "engelsk": "correct", "type": "Adjektiv"}
 {"norsk": "tidlig", "engelsk": "early", "type": "Adjektiv"}
 {"norsk": "mulig", "engelsk": "possible", "type": "Adjektiv"}
-{"norsk": "klar", "engelsk": "ready; clear; bright", "type": "Adjektiv"}
-{"norsk": "andre", "engelsk": "others", "type": "Adjektiv"}
+{"norsk": "klar", "engelsk": "ready; clear (meaning); bright (light)", "type": "Adjektiv"}
+{"norsk": "(de) andre", "engelsk": "(the) others", "type": "Adjektiv"}
 {"norsk": "annen", "engelsk": "another", "type": "Adjektiv"}
 {"norsk": "egen", "engelsk": "one's own", "type": "Adjektiv"}
 {"norsk": "enkelt", "engelsk": "individual; simple", "type": "Adjektiv"}
@@ -259,7 +288,7 @@
 {"norsk": "begge", "engelsk": "both", "type": "Andre ord"}
 {"norsk": "egentlig", "engelsk": "actually, in fact", "type": "Andre ord"}
 {"norsk": "de fleste", "engelsk": "majority, most", "type": "Andre ord"}
-{"norsk": "en slags", "engelsk": "some (kind of)", "type": "Andre ord"}
+{"norsk": "en/et slags", "engelsk": "some (kind of)", "type": "Andre ord"}
 {"norsk": "i løpet av", "engelsk": "during", "type": "Andre ord"}
 {"norsk": "i tillegg", "engelsk": "in addition", "type": "Andre ord"}
 {"norsk": "til slutt", "engelsk": "finally; in the end", "type": "Andre ord"}

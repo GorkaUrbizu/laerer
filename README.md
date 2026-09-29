@@ -2,8 +2,11 @@
 
 A colorful terminal quiz for learning Norwegian words.
 
-Each question shows a short, simple Norwegian sentence (A1-A2 level) with the
-target word highlighted, and four possible English translations of that word.
+A multiple-choice quiz over the 300 most frequently used Norwegian words (from
+the Norwegian Academy list). Each question shows the word, with its article for
+nouns so you learn the gender (`(et) år`, `(ei, en) jente`), next to a short,
+simple example sentence (A1-A2 level) with the word highlighted, and four
+possible English translations.
 The three wrong options (distractors) are always taken from the same word type
 as the correct answer (verb, adjective, noun, ...), so you can't guess from
 the grammar alone. After every question the correct answer is shown; if you got
@@ -40,7 +43,7 @@ questions answered so far are still shown.
 | `-u, --uniform`    | Pick every word with equal chance (see below)      |
 | `-t, --type`       | Only use this word type (repeatable)               |
 | `-f, --file`       | Use a different word list (JSONL)                  |
-| `--no-sentences`   | Show the bare word instead of an example sentence  |
+| `--no-sentences`   | Show only the word, without the example sentence   |
 | `--list-types`     | List word types and counts, then exit              |
 | `--no-color`       | Disable colors (also honors the `NO_COLOR` env var) |
 
@@ -52,7 +55,7 @@ Norwegian names used in the data file (`Substantiver`, `Adjektiv`, ...).
 
 Questions are picked at random, without repeats. By default, nouns, verbs and
 adjectives are **twice as likely** to be picked as other words, so they make up
-about 6 of every 10 questions instead of about 4-5. With `--uniform` every word
+about 6-7 of every 10 questions instead of about 5. With `--uniform` every word
 has the same chance, so the mix of types follows the word list (adverbs are
 the most common there).
 
@@ -65,7 +68,14 @@ top of `laerer.py`.
 
 ```json
 {"norsk": "sterk", "engelsk": "strong", "type": "Adjektiv"}
+{"norsk": "år", "artikkel": "et", "engelsk": "year", "type": "Substantiver"}
 ```
+
+Nouns have an optional `artikkel` field (`en`, `et`, `ei, en` or `en, ei`),
+shown in the game as `(et) år`. Articles come from the PDF; the few nouns the
+PDF lists without one (tid, krone, menneske, verden, prosent, politi, meter)
+use the standard Bokmål gender. Plurals and non-count words (mennesker,
+penger, alle, alt) have no article.
 
 `sentences.jsonl` has one example sentence per word, matched on `norsk` +
 `type`. The word to highlight is wrapped in `[brackets]`; nouns may appear in
@@ -77,7 +87,7 @@ definite or plural form, adjectives inflected, and verbs in the present tense:
 
 In reverse mode (`-r`) the English word is shown instead, since the Norwegian
 sentence would give the answer away; the sentence is shown after a wrong
-answer. Words without a sentence fall back to showing the bare word.
+answer. Words without a sentence are shown on their own.
 
 Distractors never share a meaning with the correct answer (for example,
 `correct` is never offered as a wrong option for `right, correct`).
