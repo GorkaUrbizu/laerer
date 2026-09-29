@@ -74,7 +74,7 @@ def load_words(path):
                 norsk = entry["norsk"].strip()
                 engelsk = entry["engelsk"].strip()
                 wtype = entry["type"].strip()
-                # Shown to the player: "(et) år" teaches gender, "(å) like"
+                # Shown before the word: "et år" teaches gender, "å like"
                 # marks infinitives (also "bli med", filed under "Andre ord").
                 marker = entry.get("artikkel", "").strip()
                 is_verb = wtype == "Verb" or engelsk.startswith("to ")
@@ -82,7 +82,8 @@ def load_words(path):
                     marker = "å"
                 words.append({
                     "norsk": norsk,
-                    "vis": f"({marker}) {norsk}" if marker else norsk,
+                    "markør": marker,
+                    "vis": f"{marker} {norsk}" if marker else norsk,
                     "engelsk": engelsk,
                     "type": wtype,
                 })
@@ -116,14 +117,13 @@ def meanings(english):
 
 
 def build_question(word, groups, reverse):
-    """Return (prompt, options, correct_index) using same-type distractors."""
-    ask, answer = ("engelsk", "vis") if reverse else ("vis", "engelsk")
-    correct = word[answer]
+    """Return (options, correct_index): word entries, same-type distractors."""
+    answer = "vis" if reverse else "engelsk"
 
     # Distractors: same type, no shared meaning with the correct word
     # (so "correct" is never offered next to "right, correct"), no duplicates.
     target = meanings(word["engelsk"])
-    seen = {correct.lower()}
+    seen = {word[answer].lower()}
     candidates = []
     for w in groups[word["type"]]:
         key = w[answer].lower()
@@ -132,12 +132,19 @@ def build_question(word, groups, reverse):
         if meanings(w["engelsk"]) & target:
             continue
         seen.add(key)
-        candidates.append(w[answer])
+        candidates.append(w)
 
     distractors = random.sample(candidates, min(NUM_OPTIONS - 1, len(candidates)))
-    options = distractors + [correct]
+    options = distractors + [word]
     random.shuffle(options)
-    return word[ask], options, options.index(correct)
+    return options, options.index(word)
+
+
+def norsk_text(word, *styles):
+    """Norwegian word with its article / infinitive marker in plain white."""
+    marker = word["markør"]
+    prefix = c(marker, "white") + " " if marker else ""
+    return prefix + c(word["norsk"], *styles)
 
 
 # ------------------------------------------------------------------- game --
@@ -214,8 +221,11 @@ def play(words, num_questions, reverse, uniform=False, sentences=None):
     banner(reverse, num_questions)
     results = []
 
+    def option_text(w, *styles):
+        return norsk_text(w, *styles) if reverse else c(w["engelsk"], *styles)
+
     for i, word in enumerate(selection, 1):
-        prompt, options, correct_idx = build_question(word, groups, reverse)
+        options, correct_idx = build_question(word, groups, reverse)
         wtype = TYPE_NAMES.get(word["type"], word["type"])
         example = sentences.get((word["norsk"], word["type"]))
 
@@ -223,14 +233,18 @@ def play(words, num_questions, reverse, uniform=False, sentences=None):
         print(c(f"  Question {i}/{num_questions}", "bold", "blue")
               + c(f"  [{wtype}]", "magenta"))
         print()
-        line = "    " + c(prompt, "bold", "bright_yellow")
-        # In reverse mode the Norwegian sentence would give the answer away.
-        if example and not reverse:
-            line += c("   ·   ", "grey") + highlight(example["setning"])
+        if reverse:
+            # The Norwegian sentence would give the answer away.
+            line = "    " + c(word["engelsk"], "bold", "bright_yellow")
+        else:
+            line = "    " + norsk_text(word, "bold", "bright_yellow")
+            if example:
+                line += c("   ·   ", "grey") + highlight(example["setning"])
         print(line)
         print()
         for j, opt in enumerate(options):
-            print(f"    {c(LABELS[j], 'bold', 'cyan')}{c(')', 'grey')} {opt}")
+            print(f"    {c(LABELS[j], 'bold', 'cyan')}{c(')', 'grey')} "
+                  f"{option_text(opt)}")
         print()
 
         choice = ask_choice()
@@ -242,21 +256,23 @@ def play(words, num_questions, reverse, uniform=False, sentences=None):
         results.append({
             "word": word,
             "given": options[choice],
-            "correct": options[correct_idx],
+            "reverse": reverse,
             "ok": ok,
         })
 
-        correct_text = f"{LABELS[correct_idx]}) {options[correct_idx]}"
+        def labelled(idx, *styles):
+            return (c(f"{LABELS[idx]}) ", *styles)
+                    + option_text(options[idx], *styles))
+
         if ok:
             print("  " + c("CORRECT", "bold", "bright_green")
-                  + c("  ·  ", "grey") + c(correct_text, "green"))
+                  + c("  ·  ", "grey") + labelled(correct_idx, "green"))
         else:
             print("  " + c("WRONG", "bold", "bright_red")
-                  + c("  ·  you chose ", "grey")
-                  + c(f"{LABELS[choice]}) {options[choice]}", "red"))
+                  + c("  ·  you chose ", "grey") + labelled(choice, "red"))
             print("  " + c("Correct answer: ", "grey")
-                  + c(correct_text, "bold", "green"))
-        print("  " + c(word["vis"], "bright_cyan")
+                  + labelled(correct_idx, "bold", "green"))
+        print("  " + norsk_text(word, "bright_cyan")
               + c(" = ", "grey") + c(word["engelsk"], "white"))
         if example and not ok:
             if reverse:
@@ -302,10 +318,14 @@ def show_results(results):
     width = max(len(r["word"]["vis"]) for r in results) + 2
     for i, r in enumerate(results, 1):
         mark = c("+", "bold", "green") if r["ok"] else c("x", "bold", "red")
-        norsk = c(r["word"]["vis"].ljust(width), "bright_cyan")
+        pad = " " * (width - len(r["word"]["vis"]))
+        norsk = norsk_text(r["word"], "bright_cyan") + pad
         line = f"  {c(f'{i:>2}.', 'grey')} {mark} {norsk}{r['word']['engelsk']}"
         if not r["ok"]:
-            line += c(f"   (you: {r['given']})", "red")
+            given = r["given"]
+            given_text = (norsk_text(given, "red") if r["reverse"]
+                          else c(given["engelsk"], "red"))
+            line += c("   (you: ", "red") + given_text + c(")", "red")
         print(line)
 
     mistakes = [r for r in results if not r["ok"]]
