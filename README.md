@@ -1,9 +1,9 @@
 # Lærer
 
-A colorful terminal quiz for learning Norwegian words.
+A colorful terminal quiz for learning Norwegian (Bokmål) words.
 
-A multiple-choice quiz over the 300 most frequently used Norwegian words (from
-the Norwegian Academy list). Each question shows the word, with its article for
+A multiple-choice quiz over the 300 most frequently used Norwegian (Bokmål)
+words. Each question shows the word, with its article for
 nouns so you learn the gender (`et år`, `ei jente`) and the infinitive
 marker for verbs (`å like`), shown in white, next to a short,
 simple example sentence (A1-A2 level) with the word highlighted, and four
@@ -78,11 +78,7 @@ stund, dør, krone, side, sak, tid, regjering) is marked `ei`, and the
 sentences use the feminine definite form (`Mora mi`, `hånda`, `Tida`) so the
 gender is visible. In Bokmål these can also take `en` (`moren min`), but
 masculine nouns can never take `ei`, so learning the feminine ones as feminine
-and defaulting to `en` when unsure is the safe strategy. Other articles come
-from the PDF; the few nouns the
-PDF lists without one (tid, krone, menneske, verden, prosent, politi, meter)
-use the standard Bokmål gender. Plurals and non-count words (mennesker,
-penger, alle, alt) have no article.
+and defaulting to `en` when unsure is the safe strategy.
 
 The same field holds the article in fixed expressions: `de andre`,
 `de fleste`, `en/et slags`. An optional `tillegg` field adds a word after,
