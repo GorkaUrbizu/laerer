@@ -7,7 +7,8 @@ words. Each question shows the word, with its article for
 nouns so you learn the gender (`et år`, `ei jente`) and the infinitive
 marker for verbs (`å like`), shown in white, next to a short,
 simple example sentence (A1-A2 level) with the word highlighted, and four
-possible English translations.
+possible English translations. Every word has three example sentences and one
+is picked at random each time, so you learn the word, not the sentence.
 The three wrong options (distractors) are always taken from the same word type
 as the correct answer (verb, adjective, noun, ...), so you can't guess from
 the grammar alone. After every question the correct answer is shown; if you got
@@ -47,6 +48,8 @@ questions answered so far are still shown.
 | `--no-sentences`   | Show only the word, without the example sentence   |
 | `--list-types`     | List word types and counts, then exit              |
 | `--no-color`       | Disable colors (also honors the `NO_COLOR` env var) |
+| `--flag POS`       | Where a perfect-score surprise appears: `right` of the results, `below`, or `auto` (default: right if the terminal is wide enough) |
+| `--noflag`         | Turn off the perfect-score surprise                |
 
 Word types can be given in English (`verb`, `noun`, `adjective`, `adverb`,
 `preposition`, `conjunction`, `pronoun`, `question word`, `other`) or with the
@@ -84,8 +87,9 @@ The same field holds the article in fixed expressions: `de andre`,
 `de fleste`, `en/et slags`. An optional `tillegg` field adds a word after,
 e.g. `enda mer`. Both are shown in white; verbs get `å` automatically.
 
-`sentences.jsonl` has one example sentence per word, matched on `norsk` +
-`type`. The word to highlight is wrapped in `[brackets]`; nouns may appear in
+`sentences.jsonl` has one example sentence per line, three per word, matched
+on `norsk` + `type`; the game picks one of a word's sentences at random. Add
+more lines for a word to get more variety. The word to highlight is wrapped in `[brackets]`; nouns may appear in
 definite or plural form, adjectives inflected, and verbs in the present tense:
 
 ```json

@@ -6,8 +6,11 @@ import json
 import os
 import random
 import re
+import shutil
 import sys
 from pathlib import Path
+
+import flagg
 
 DEFAULT_WORDS = Path(__file__).resolve().parent / "norwegian_words.jsonl"
 DEFAULT_SENTENCES = Path(__file__).resolve().parent / "sentences.jsonl"
@@ -151,6 +154,38 @@ def norsk_text(word, *styles):
     return prefix + c(word["norsk"], *styles) + suffix
 
 
+# ------------------------------------------------------------ easter egg ---
+
+FLAG_GAP = 4                         # columns between results and flag
+
+
+def celebrate(lines, position="auto"):
+    """Easter egg for a perfect score: a Norwegian flag waving (flagg.py).
+
+    lines are the results, already built. position is "right" (flag next to
+    them, for short but wide terminals), "below", or "auto" (right if it fits).
+    """
+    lines = lines + [
+        "  " + c("PERFEKT!", "bold", "bright_yellow")
+        + c("  Alle svar er riktige. Gratulerer!", "bold", "white"),
+        "",
+    ]
+    if not Style.enabled:
+        print("\n".join(lines))
+        return
+    if position == "auto":
+        needed = (max(flagg.visible_len(s) for s in lines)
+                  + FLAG_GAP + flagg.WIDTH)
+        fits = shutil.get_terminal_size().columns >= needed
+        position = "right" if fits else "below"
+    if position == "right":
+        flagg.wave(left=lines, gap=FLAG_GAP)
+    else:
+        print("\n".join(lines))
+        flagg.wave()
+    print()
+
+
 # ------------------------------------------------------------------- game --
 
 def banner(reverse, total):
@@ -193,7 +228,7 @@ def weighted_sample(words, k, uniform):
 
 
 def load_sentences(path):
-    """Map (norsk, type) -> example sentence entry. Missing file is fine."""
+    """Map (norsk, type) -> list of example sentences. Missing file is fine."""
     sentences = {}
     if not path.exists():
         return sentences
@@ -202,7 +237,7 @@ def load_sentences(path):
             line = line.strip()
             if line:
                 s = json.loads(line)
-                sentences[(s["norsk"], s["type"])] = s
+                sentences.setdefault((s["norsk"], s["type"]), []).append(s)
     return sentences
 
 
@@ -214,7 +249,8 @@ def highlight(sentence, base="white"):
             + c(after, base))
 
 
-def play(words, num_questions, reverse, uniform=False, sentences=None):
+def play(words, num_questions, reverse, uniform=False, sentences=None,
+         flag="auto"):
     sentences = sentences or {}
     groups = group_by_type(words)
     # Only use words whose type can provide enough distractors.
@@ -231,7 +267,9 @@ def play(words, num_questions, reverse, uniform=False, sentences=None):
     for i, word in enumerate(selection, 1):
         options, correct_idx = build_question(word, groups, reverse)
         wtype = TYPE_NAMES.get(word["type"], word["type"])
-        example = sentences.get((word["norsk"], word["type"]))
+        # A different example each time, so the sentence isn't memorized.
+        examples = sentences.get((word["norsk"], word["type"]))
+        example = random.choice(examples) if examples else None
 
         print()
         print(c(f"  Question {i}/{num_questions}", "bold", "blue")
@@ -284,19 +322,18 @@ def play(words, num_questions, reverse, uniform=False, sentences=None):
             print("  " + c(example["oversettelse"], "italic", "grey"))
         print(rule())
 
-    show_results(results)
+    show_results(results, num_questions, flag)
 
 
-def show_results(results):
+def show_results(results, planned, flag="auto"):
+    """Print the score board. flag: "auto", "right", "below" or None (off)."""
     total = len(results)
-    print()
-    print(rule(60, "blue"))
-    print("  " + c("RESULTS", "bold", "bright_cyan"))
-    print(rule(60, "blue"))
+    out = ["", rule(60, "blue"), "  " + c("RESULTS", "bold", "bright_cyan"),
+           rule(60, "blue")]
 
     if total == 0:
-        print(c("  No questions answered.", "grey"))
-        print()
+        out += [c("  No questions answered.", "grey"), ""]
+        print("\n".join(out))
         return
 
     score = sum(r["ok"] for r in results)
@@ -312,12 +349,14 @@ def show_results(results):
     filled = round(bar_width * score / total)
     bar = c("█" * filled, color) + c("░" * (bar_width - filled), "grey")
 
-    print()
-    print(f"  Score: {c(f'{score}/{total}', 'bold', color)}"
-          f"  {c(f'({pct:.0f}%)', color)}")
-    print(f"  {bar}")
-    print(f"  {c(msg, 'italic', color)}")
-    print()
+    out += [
+        "",
+        f"  Score: {c(f'{score}/{total}', 'bold', color)}"
+        f"  {c(f'({pct:.0f}%)', color)}",
+        f"  {bar}",
+        f"  {c(msg, 'italic', color)}",
+        "",
+    ]
 
     width = max(len(r["word"]["vis"]) for r in results) + 2
     for i, r in enumerate(results, 1):
@@ -330,14 +369,18 @@ def show_results(results):
             given_text = (norsk_text(given, "red") if r["reverse"]
                           else c(given["engelsk"], "red"))
             line += c("   (you: ", "red") + given_text + c(")", "red")
-        print(line)
+        out.append(line)
 
     mistakes = [r for r in results if not r["ok"]]
     if mistakes:
-        print()
-        print(c(f"  Words to review: {len(mistakes)}", "yellow"))
-    print(rule(60, "blue"))
-    print()
+        out += ["", c(f"  Words to review: {len(mistakes)}", "yellow")]
+    out += [rule(60, "blue"), ""]
+
+    # Only a full quiz with every answer right counts, not an early quit.
+    if flag and score == total == planned:
+        celebrate(out, flag)
+    else:
+        print("\n".join(out))
 
 
 # ------------------------------------------------------------------- main --
@@ -363,16 +406,33 @@ def main():
                         help="disable colored output")
     parser.add_argument("--list-types", action="store_true",
                         help="list available word types and exit")
+    parser.add_argument("--flag", choices=("auto", "right", "below"),
+                        default="auto",
+                        help="where the perfect-score surprise goes: right of "
+                             "the results, below them, or auto (right if the "
+                             "terminal is wide enough)")
+    parser.add_argument("--noflag", "--no-flag", action="store_true",
+                        help="turn off the perfect-score surprise")
+    # Hidden: preview the perfect-score board without playing.
+    parser.add_argument("--flagg", action="store_true", help=argparse.SUPPRESS)
     args = parser.parse_args()
 
     Style.enabled = (not args.no_color and sys.stdout.isatty()
                      and "NO_COLOR" not in os.environ)
+    flag = None if args.noflag else args.flag
 
     if args.questions < 1:
         parser.error("--questions must be at least 1")
 
     words = load_words(args.file)
     groups = group_by_type(words)
+
+    if args.flagg:
+        sample = random.sample(words, min(args.questions, len(words)))
+        results = [{"word": w, "given": w, "reverse": False, "ok": True}
+                   for w in sample]
+        show_results(results, len(results), flag)
+        return
 
     if args.list_types:
         for t, ws in sorted(groups.items(), key=lambda kv: -len(kv[1])):
@@ -390,7 +450,8 @@ def main():
 
     try:
         sentences = {} if args.no_sentences else load_sentences(DEFAULT_SENTENCES)
-        play(words, args.questions, args.reverse, args.uniform, sentences)
+        play(words, args.questions, args.reverse, args.uniform, sentences,
+             flag)
     except KeyboardInterrupt:
         print(c("\n\n  Ha det! Goodbye.\n", "yellow"))
 

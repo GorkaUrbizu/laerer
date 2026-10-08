@@ -1,300 +1,900 @@
 {"norsk": "gang", "type": "Substantiver", "setning": "Jeg vil besøke Norge en [gang].", "oversettelse": "I want to visit Norway sometime."}
+{"norsk": "gang", "type": "Substantiver", "setning": "Jeg har vært i Bergen én [gang].", "oversettelse": "I have been to Bergen once."}
+{"norsk": "gang", "type": "Substantiver", "setning": "Vi ses neste [gang]!", "oversettelse": "See you next time!"}
 {"norsk": "del", "type": "Substantiver", "setning": "En [del] av boka er vanskelig.", "oversettelse": "Part of the book is difficult."}
+{"norsk": "del", "type": "Substantiver", "setning": "Jeg spiser en [del] av kaka.", "oversettelse": "I eat a part of the cake."}
+{"norsk": "del", "type": "Substantiver", "setning": "Første [del] av filmen er best.", "oversettelse": "The first part of the film is the best."}
 {"norsk": "grunn", "type": "Substantiver", "setning": "Hva er [grunnen]?", "oversettelse": "What is the reason?"}
+{"norsk": "grunn", "type": "Substantiver", "setning": "Det er ingen [grunn] til å være redd.", "oversettelse": "There is no reason to be scared."}
+{"norsk": "grunn", "type": "Substantiver", "setning": "Av hvilken [grunn]?", "oversettelse": "For what reason?"}
 {"norsk": "sted", "type": "Substantiver", "setning": "Dette er et fint [sted].", "oversettelse": "This is a nice place."}
+{"norsk": "sted", "type": "Substantiver", "setning": "Hvor ligger det [stedet]?", "oversettelse": "Where is that place?"}
+{"norsk": "sted", "type": "Substantiver", "setning": "Vi trenger et [sted] å sove.", "oversettelse": "We need a place to sleep."}
 {"norsk": "land", "type": "Substantiver", "setning": "Norge er et kaldt [land].", "oversettelse": "Norway is a cold country."}
+{"norsk": "land", "type": "Substantiver", "setning": "Hvilket [land] kommer du fra?", "oversettelse": "Which country do you come from?"}
+{"norsk": "land", "type": "Substantiver", "setning": "Sverige er et [land] i Norden.", "oversettelse": "Sweden is a country in the Nordic region."}
 {"norsk": "plass", "type": "Substantiver", "setning": "Er denne [plassen] ledig?", "oversettelse": "Is this seat free?"}
+{"norsk": "plass", "type": "Substantiver", "setning": "Det er ikke [plass] i bilen.", "oversettelse": "There is no room in the car."}
+{"norsk": "plass", "type": "Substantiver", "setning": "Vi møtes på [plassen] i sentrum.", "oversettelse": "We meet at the square in the centre."}
 {"norsk": "vei", "type": "Substantiver", "setning": "Denne [veien] går til byen.", "oversettelse": "This road goes to the town."}
+{"norsk": "vei", "type": "Substantiver", "setning": "Vet du [veien] til stasjonen?", "oversettelse": "Do you know the way to the station?"}
+{"norsk": "vei", "type": "Substantiver", "setning": "Det er mye snø på [veien].", "oversettelse": "There is a lot of snow on the road."}
 {"norsk": "side", "type": "Substantiver", "setning": "Les [sida] om Norge i boka.", "oversettelse": "Read the page about Norway in the book."}
+{"norsk": "side", "type": "Substantiver", "setning": "Butikken er på andre [sida] av gata.", "oversettelse": "The shop is on the other side of the street."}
+{"norsk": "side", "type": "Substantiver", "setning": "Boka har to hundre [sider].", "oversettelse": "The book has two hundred pages."}
 {"norsk": "ord", "type": "Substantiver", "setning": "Jeg lærer nye [ord] hver dag.", "oversettelse": "I learn new words every day."}
+{"norsk": "ord", "type": "Substantiver", "setning": "Jeg forstår ikke det [ordet].", "oversettelse": "I don't understand that word."}
+{"norsk": "ord", "type": "Substantiver", "setning": "Skriv ti nye [ord] i boka.", "oversettelse": "Write ten new words in the book."}
 {"norsk": "par", "type": "Substantiver", "setning": "De er et fint [par].", "oversettelse": "They are a nice couple."}
+{"norsk": "par", "type": "Substantiver", "setning": "Jeg kjøper et [par] sko.", "oversettelse": "I am buying a pair of shoes."}
+{"norsk": "par", "type": "Substantiver", "setning": "Vi venter et [par] minutter.", "oversettelse": "We wait a couple of minutes."}
 {"norsk": "kunde", "type": "Substantiver", "setning": "[Kunden] vil betale nå.", "oversettelse": "The customer wants to pay now."}
+{"norsk": "kunde", "type": "Substantiver", "setning": "Butikken har mange [kunder].", "oversettelse": "The shop has many customers."}
+{"norsk": "kunde", "type": "Substantiver", "setning": "Hun er en fast [kunde] her.", "oversettelse": "She is a regular customer here."}
 {"norsk": "forhold", "type": "Substantiver", "setning": "De har et godt [forhold].", "oversettelse": "They have a good relationship."}
+{"norsk": "forhold", "type": "Substantiver", "setning": "Hvordan er [forholdet] til broren din?", "oversettelse": "How is your relationship with your brother?"}
+{"norsk": "forhold", "type": "Substantiver", "setning": "De har et nært [forhold].", "oversettelse": "They have a close relationship."}
 {"norsk": "foto", "type": "Substantiver", "setning": "Hun tar et [foto] av huset.", "oversettelse": "She takes a photo of the house."}
+{"norsk": "foto", "type": "Substantiver", "setning": "Se på dette [fotoet]!", "oversettelse": "Look at this photo!"}
+{"norsk": "foto", "type": "Substantiver", "setning": "Jeg har et gammelt [foto] av mormor.", "oversettelse": "I have an old photo of Grandma."}
 {"norsk": "hode", "type": "Substantiver", "setning": "Jeg har vondt i [hodet].", "oversettelse": "I have a headache."}
+{"norsk": "hode", "type": "Substantiver", "setning": "Han har ei lue på [hodet].", "oversettelse": "He has a hat on his head."}
+{"norsk": "hode", "type": "Substantiver", "setning": "Hun rister på [hodet].", "oversettelse": "She shakes her head."}
 {"norsk": "ansikt", "type": "Substantiver", "setning": "Hun vasker [ansiktet].", "oversettelse": "She washes her face."}
+{"norsk": "ansikt", "type": "Substantiver", "setning": "Hun har et pent [ansikt].", "oversettelse": "She has a pretty face."}
+{"norsk": "ansikt", "type": "Substantiver", "setning": "Jeg husker [ansiktet] hans.", "oversettelse": "I remember his face."}
 {"norsk": "øye", "type": "Substantiver", "setning": "Han har blå [øyne].", "oversettelse": "He has blue eyes."}
+{"norsk": "øye", "type": "Substantiver", "setning": "Lukk [øynene]!", "oversettelse": "Close your eyes!"}
+{"norsk": "øye", "type": "Substantiver", "setning": "Jeg har noe i [øyet].", "oversettelse": "I have something in my eye."}
 {"norsk": "møte", "type": "Substantiver", "setning": "[Møtet] begynner klokka ni.", "oversettelse": "The meeting starts at nine."}
+{"norsk": "møte", "type": "Substantiver", "setning": "Jeg har et [møte] klokka to.", "oversettelse": "I have a meeting at two o'clock."}
+{"norsk": "møte", "type": "Substantiver", "setning": "[Møtet] er langt i dag.", "oversettelse": "The meeting is long today."}
 {"norsk": "mål", "type": "Substantiver", "setning": "Hva er [målet] ditt?", "oversettelse": "What is your goal?"}
+{"norsk": "mål", "type": "Substantiver", "setning": "Laget scorer et [mål].", "oversettelse": "The team scores a goal."}
+{"norsk": "mål", "type": "Substantiver", "setning": "Mitt [mål] er å snakke norsk.", "oversettelse": "My goal is to speak Norwegian."}
 {"norsk": "seier", "type": "Substantiver", "setning": "Laget feirer [seieren].", "oversettelse": "The team celebrates the victory."}
+{"norsk": "seier", "type": "Substantiver", "setning": "Det er en stor [seier] for laget.", "oversettelse": "It is a big win for the team."}
+{"norsk": "seier", "type": "Substantiver", "setning": "Vi håper på [seier] i dag.", "oversettelse": "We hope for a win today."}
 {"norsk": "måte", "type": "Substantiver", "setning": "Det er en god [måte] å lære på.", "oversettelse": "It is a good way to learn."}
+{"norsk": "måte", "type": "Substantiver", "setning": "Hun snakker på en morsom [måte].", "oversettelse": "She talks in a funny way."}
+{"norsk": "måte", "type": "Substantiver", "setning": "Det er den beste [måten].", "oversettelse": "That is the best way."}
 {"norsk": "sak", "type": "Substantiver", "setning": "Det er ei viktig [sak].", "oversettelse": "It is an important matter."}
+{"norsk": "sak", "type": "Substantiver", "setning": "Vi snakker om [saka] i morgen.", "oversettelse": "We will talk about the matter tomorrow."}
+{"norsk": "sak", "type": "Substantiver", "setning": "Det er ei enkel [sak].", "oversettelse": "It is a simple matter."}
 {"norsk": "stund", "type": "Substantiver", "setning": "Vent ei [stund], er du snill.", "oversettelse": "Wait a while, please."}
+{"norsk": "stund", "type": "Substantiver", "setning": "Jeg blir her ei [stund].", "oversettelse": "I am staying here for a while."}
+{"norsk": "stund", "type": "Substantiver", "setning": "Vi snakker sammen ei lita [stund].", "oversettelse": "We talk together for a little while."}
 {"norsk": "spørsmål", "type": "Substantiver", "setning": "Kan jeg stille et [spørsmål]?", "oversettelse": "Can I ask a question?"}
+{"norsk": "spørsmål", "type": "Substantiver", "setning": "Har du et [spørsmål]?", "oversettelse": "Do you have a question?"}
+{"norsk": "spørsmål", "type": "Substantiver", "setning": "Det er et godt [spørsmål]!", "oversettelse": "That is a good question!"}
 {"norsk": "regjering", "type": "Substantiver", "setning": "[Regjeringa] har et møte i dag.", "oversettelse": "The government has a meeting today."}
+{"norsk": "regjering", "type": "Substantiver", "setning": "Landet får ei ny [regjering].", "oversettelse": "The country is getting a new government."}
+{"norsk": "regjering", "type": "Substantiver", "setning": "[Regjeringa] bestemmer mye.", "oversettelse": "The government decides a lot."}
 {"norsk": "eksempel", "type": "Substantiver", "setning": "Kan du gi et [eksempel]?", "oversettelse": "Can you give an example?"}
+{"norsk": "eksempel", "type": "Substantiver", "setning": "Her er et [eksempel].", "oversettelse": "Here is an example."}
+{"norsk": "eksempel", "type": "Substantiver", "setning": "Læreren gir oss mange [eksempler].", "oversettelse": "The teacher gives us many examples."}
 {"norsk": "kamp", "type": "Substantiver", "setning": "Vi ser på [kampen] i kveld.", "oversettelse": "We are watching the match tonight."}
+{"norsk": "kamp", "type": "Substantiver", "setning": "Vi vinner [kampen]!", "oversettelse": "We are winning the match!"}
+{"norsk": "kamp", "type": "Substantiver", "setning": "Når begynner [kampen]?", "oversettelse": "When does the match start?"}
 {"norsk": "slutt", "type": "Substantiver", "setning": "Filmen har en fin [slutt].", "oversettelse": "The film has a nice ending."}
+{"norsk": "slutt", "type": "Substantiver", "setning": "Det er [slutt] på ferien.", "oversettelse": "The holiday is over."}
+{"norsk": "slutt", "type": "Substantiver", "setning": "Les boka til [slutten].", "oversettelse": "Read the book to the end."}
 {"norsk": "alle", "type": "Substantiver", "setning": "[Alle] er her nå.", "oversettelse": "Everyone is here now."}
+{"norsk": "alle", "type": "Substantiver", "setning": "[Alle] liker is.", "oversettelse": "Everyone likes ice cream."}
+{"norsk": "alle", "type": "Substantiver", "setning": "Vi venter på [alle].", "oversettelse": "We are waiting for everyone."}
 {"norsk": "alt", "type": "Substantiver", "setning": "[Alt] er bra.", "oversettelse": "Everything is fine."}
+{"norsk": "alt", "type": "Substantiver", "setning": "Takk for [alt]!", "oversettelse": "Thanks for everything!"}
+{"norsk": "alt", "type": "Substantiver", "setning": "Hun vet [alt] om hester.", "oversettelse": "She knows everything about horses."}
 {"norsk": "tid", "type": "Substantiver", "setning": "[Tida] går fort.", "oversettelse": "Time flies."}
+{"norsk": "tid", "type": "Substantiver", "setning": "Har du [tid] i morgen?", "oversettelse": "Do you have time tomorrow?"}
+{"norsk": "tid", "type": "Substantiver", "setning": "Vi har god [tid].", "oversettelse": "We have plenty of time."}
 {"norsk": "krone", "type": "Substantiver", "setning": "Det koster bare ei [krone].", "oversettelse": "It only costs one krone."}
+{"norsk": "krone", "type": "Substantiver", "setning": "Brødet koster førti [kroner].", "oversettelse": "The bread costs forty kroner."}
+{"norsk": "krone", "type": "Substantiver", "setning": "Kongen har ei [krone].", "oversettelse": "The king has a crown."}
 {"norsk": "menneske", "type": "Substantiver", "setning": "Hun er et snilt [menneske].", "oversettelse": "She is a kind person."}
+{"norsk": "menneske", "type": "Substantiver", "setning": "Et [menneske] trenger vann.", "oversettelse": "A person needs water."}
+{"norsk": "menneske", "type": "Substantiver", "setning": "Hun er det snilleste [mennesket] jeg kjenner.", "oversettelse": "She is the kindest person I know."}
 {"norsk": "mennesker", "type": "Substantiver", "setning": "Det er mange [mennesker] i byen.", "oversettelse": "There are many people in the city."}
+{"norsk": "mennesker", "type": "Substantiver", "setning": "Mange [mennesker] bor i Oslo.", "oversettelse": "Many people live in Oslo."}
+{"norsk": "mennesker", "type": "Substantiver", "setning": "Jeg liker å møte nye [mennesker].", "oversettelse": "I like meeting new people."}
 {"norsk": "verden", "type": "Substantiver", "setning": "[Verden] er stor.", "oversettelse": "The world is big."}
+{"norsk": "verden", "type": "Substantiver", "setning": "Han vil reise rundt i [verden].", "oversettelse": "He wants to travel around the world."}
+{"norsk": "verden", "type": "Substantiver", "setning": "Hun er den beste i [verden]!", "oversettelse": "She is the best in the world!"}
 {"norsk": "prosent", "type": "Substantiver", "setning": "Ti [prosent] av elevene er syke.", "oversettelse": "Ten percent of the pupils are sick."}
+{"norsk": "prosent", "type": "Substantiver", "setning": "Femti [prosent] er halvparten.", "oversettelse": "Fifty percent is half."}
+{"norsk": "prosent", "type": "Substantiver", "setning": "Prisen går opp to [prosent].", "oversettelse": "The price goes up two percent."}
 {"norsk": "penger", "type": "Substantiver", "setning": "Jeg har ikke mye [penger].", "oversettelse": "I don't have much money."}
+{"norsk": "penger", "type": "Substantiver", "setning": "Har du [penger] til bussen?", "oversettelse": "Do you have money for the bus?"}
+{"norsk": "penger", "type": "Substantiver", "setning": "Hun sparer [penger] til en ny sykkel.", "oversettelse": "She is saving money for a new bike."}
 {"norsk": "politi", "type": "Substantiver", "setning": "[Politiet] kommer snart.", "oversettelse": "The police are coming soon."}
+{"norsk": "politi", "type": "Substantiver", "setning": "Ring [politiet]!", "oversettelse": "Call the police!"}
+{"norsk": "politi", "type": "Substantiver", "setning": "Han jobber i [politiet].", "oversettelse": "He works in the police."}
 {"norsk": "meter", "type": "Substantiver", "setning": "Huset ligger hundre [meter] herfra.", "oversettelse": "The house is a hundred meters from here."}
+{"norsk": "meter", "type": "Substantiver", "setning": "Hun er én [meter] og sytti.", "oversettelse": "She is one metre seventy."}
+{"norsk": "meter", "type": "Substantiver", "setning": "Bassenget er femti [meter] langt.", "oversettelse": "The pool is fifty metres long."}
 {"norsk": "noen", "type": "Pronomener", "setning": "[Noen] banker på døra.", "oversettelse": "Someone is knocking on the door."}
+{"norsk": "noen", "type": "Pronomener", "setning": "Er det [noen] hjemme?", "oversettelse": "Is anyone home?"}
+{"norsk": "noen", "type": "Pronomener", "setning": "[Noen] har tatt sykkelen min.", "oversettelse": "Someone has taken my bike."}
 {"norsk": "noe", "type": "Pronomener", "setning": "Vil du ha [noe] å drikke?", "oversettelse": "Do you want something to drink?"}
+{"norsk": "noe", "type": "Pronomener", "setning": "Jeg hører [noe].", "oversettelse": "I hear something."}
+{"norsk": "noe", "type": "Pronomener", "setning": "Har du [noe] å spise?", "oversettelse": "Do you have something to eat?"}
 {"norsk": "ingenting", "type": "Pronomener", "setning": "Jeg ser [ingenting].", "oversettelse": "I see nothing."}
+{"norsk": "ingenting", "type": "Pronomener", "setning": "Det koster [ingenting].", "oversettelse": "It costs nothing."}
+{"norsk": "ingenting", "type": "Pronomener", "setning": "Jeg gjør [ingenting] i dag.", "oversettelse": "I am doing nothing today."}
 {"norsk": "ingen", "type": "Pronomener", "setning": "[Ingen] er hjemme.", "oversettelse": "No one is at home."}
+{"norsk": "ingen", "type": "Pronomener", "setning": "[Ingen] vet svaret.", "oversettelse": "No one knows the answer."}
+{"norsk": "ingen", "type": "Pronomener", "setning": "Det er [ingen] i parken.", "oversettelse": "There is no one in the park."}
 {"norsk": "selv", "type": "Pronomener", "setning": "Jeg lager maten [selv].", "oversettelse": "I make the food myself."}
+{"norsk": "selv", "type": "Pronomener", "setning": "Han reparerer sykkelen [selv].", "oversettelse": "He repairs the bike himself."}
+{"norsk": "selv", "type": "Pronomener", "setning": "Hun bor for seg [selv].", "oversettelse": "She lives on her own."}
 {"norsk": "alle", "type": "Pronomener", "setning": "Hei, [alle] sammen!", "oversettelse": "Hi, everyone!"}
+{"norsk": "alle", "type": "Pronomener", "setning": "[Alle] elevene er her.", "oversettelse": "All the pupils are here."}
+{"norsk": "alle", "type": "Pronomener", "setning": "God natt, [alle]!", "oversettelse": "Good night, everyone!"}
 {"norsk": "hver", "type": "Pronomener", "setning": "Jeg trener [hver] dag.", "oversettelse": "I work out every day."}
+{"norsk": "hver", "type": "Pronomener", "setning": "Hun leser [hver] kveld.", "oversettelse": "She reads every evening."}
+{"norsk": "hver", "type": "Pronomener", "setning": "[Hver] elev får ei bok.", "oversettelse": "Every pupil gets a book."}
 {"norsk": "hverandre", "type": "Pronomener", "setning": "De liker [hverandre].", "oversettelse": "They like each other."}
+{"norsk": "hverandre", "type": "Pronomener", "setning": "Vi hjelper [hverandre].", "oversettelse": "We help each other."}
+{"norsk": "hverandre", "type": "Pronomener", "setning": "De ser på [hverandre].", "oversettelse": "They look at each other."}
 {"norsk": "denne", "type": "Pronomener", "setning": "[Denne] boka er god.", "oversettelse": "This book is good."}
+{"norsk": "denne", "type": "Pronomener", "setning": "Er [denne] stolen ledig?", "oversettelse": "Is this chair free?"}
+{"norsk": "denne", "type": "Pronomener", "setning": "Jeg liker [denne] jakka.", "oversettelse": "I like this jacket."}
 {"norsk": "man", "type": "Pronomener", "setning": "Her kan [man] bade.", "oversettelse": "One can swim here."}
+{"norsk": "man", "type": "Pronomener", "setning": "[Man] må ha billett på bussen.", "oversettelse": "You must have a ticket on the bus."}
+{"norsk": "man", "type": "Pronomener", "setning": "Hvordan sier [man] det på norsk?", "oversettelse": "How does one say that in Norwegian?"}
 {"norsk": "begynne", "type": "Verb", "setning": "Skolen [begynner] i august.", "oversettelse": "School starts in August."}
+{"norsk": "begynne", "type": "Verb", "setning": "Filmen [begynner] nå.", "oversettelse": "The film is starting now."}
+{"norsk": "begynne", "type": "Verb", "setning": "Jeg [begynner] i ny jobb i dag.", "oversettelse": "I am starting a new job today."}
 {"norsk": "bety", "type": "Verb", "setning": "Hva [betyr] dette ordet?", "oversettelse": "What does this word mean?"}
+{"norsk": "bety", "type": "Verb", "setning": "Det [betyr] mye for meg.", "oversettelse": "It means a lot to me."}
+{"norsk": "bety", "type": "Verb", "setning": "Rødt lys [betyr] stopp.", "oversettelse": "A red light means stop."}
 {"norsk": "bli", "type": "Verb", "setning": "Jeg [blir] hjemme i dag.", "oversettelse": "I am staying at home today."}
+{"norsk": "bli", "type": "Verb", "setning": "Det [blir] kaldt i kveld.", "oversettelse": "It will be cold tonight."}
+{"norsk": "bli", "type": "Verb", "setning": "Hun [blir] lege.", "oversettelse": "She is becoming a doctor."}
 {"norsk": "bruke", "type": "Verb", "setning": "Hun [bruker] PC på jobben.", "oversettelse": "She uses a PC at work."}
+{"norsk": "bruke", "type": "Verb", "setning": "Jeg [bruker] mye tid på lekser.", "oversettelse": "I spend a lot of time on homework."}
+{"norsk": "bruke", "type": "Verb", "setning": "Vi [bruker] bilen hver dag.", "oversettelse": "We use the car every day."}
 {"norsk": "burde", "type": "Verb", "setning": "Du [bør] sove mer.", "oversettelse": "You should sleep more."}
+{"norsk": "burde", "type": "Verb", "setning": "Vi [bør] gå nå.", "oversettelse": "We should go now."}
+{"norsk": "burde", "type": "Verb", "setning": "Han [bør] spise mer frukt.", "oversettelse": "He should eat more fruit."}
 {"norsk": "finne", "type": "Verb", "setning": "Jeg [finner] ikke nøklene.", "oversettelse": "I can't find the keys."}
+{"norsk": "finne", "type": "Verb", "setning": "Hun [finner] en mynt på gata.", "oversettelse": "She finds a coin on the street."}
+{"norsk": "finne", "type": "Verb", "setning": "Vi [finner] veien hjem.", "oversettelse": "We find the way home."}
 {"norsk": "fortelle", "type": "Verb", "setning": "Mamma [forteller] en historie.", "oversettelse": "Mum tells a story."}
+{"norsk": "fortelle", "type": "Verb", "setning": "Hun [forteller] om ferien.", "oversettelse": "She tells about the holiday."}
+{"norsk": "fortelle", "type": "Verb", "setning": "[Forteller] du meg sannheten?", "oversettelse": "Are you telling me the truth?"}
 {"norsk": "føle", "type": "Verb", "setning": "Jeg [føler] meg bra i dag.", "oversettelse": "I feel good today."}
+{"norsk": "føle", "type": "Verb", "setning": "Hun [føler] seg trøtt.", "oversettelse": "She feels tired."}
+{"norsk": "føle", "type": "Verb", "setning": "Jeg [føler] meg hjemme her.", "oversettelse": "I feel at home here."}
 {"norsk": "følge", "type": "Verb", "setning": "Hunden [følger] meg hjem.", "oversettelse": "The dog follows me home."}
+{"norsk": "følge", "type": "Verb", "setning": "Jeg [følger] deg til bussen.", "oversettelse": "I will walk you to the bus."}
+{"norsk": "følge", "type": "Verb", "setning": "Vi [følger] kartet.", "oversettelse": "We follow the map."}
 {"norsk": "få", "type": "Verb", "setning": "Jeg [får] en gave.", "oversettelse": "I get a present."}
+{"norsk": "få", "type": "Verb", "setning": "Hun [får] mange brev.", "oversettelse": "She gets many letters."}
+{"norsk": "få", "type": "Verb", "setning": "Vi [får] besøk i kveld.", "oversettelse": "We are getting visitors tonight."}
 {"norsk": "gi", "type": "Verb", "setning": "Han [gir] meg en blomst.", "oversettelse": "He gives me a flower."}
+{"norsk": "gi", "type": "Verb", "setning": "Jeg [gir] henne ei bok.", "oversettelse": "I give her a book."}
+{"norsk": "gi", "type": "Verb", "setning": "Læreren [gir] oss lekser.", "oversettelse": "The teacher gives us homework."}
 {"norsk": "gjelde", "type": "Verb", "setning": "Regelen [gjelder] alle.", "oversettelse": "The rule applies to everyone."}
+{"norsk": "gjelde", "type": "Verb", "setning": "Billetten [gjelder] i én time.", "oversettelse": "The ticket is valid for one hour."}
+{"norsk": "gjelde", "type": "Verb", "setning": "Det [gjelder] deg også.", "oversettelse": "That applies to you too."}
 {"norsk": "gjøre", "type": "Verb", "setning": "Hva [gjør] du?", "oversettelse": "What are you doing?"}
+{"norsk": "gjøre", "type": "Verb", "setning": "Hva [gjør] vi i helga?", "oversettelse": "What are we doing at the weekend?"}
+{"norsk": "gjøre", "type": "Verb", "setning": "Hun [gjør] leksene sine.", "oversettelse": "She does her homework."}
 {"norsk": "gå", "type": "Verb", "setning": "Jeg [går] til skolen.", "oversettelse": "I walk to school."}
+{"norsk": "gå", "type": "Verb", "setning": "Vi [går] på kino i kveld.", "oversettelse": "We are going to the cinema tonight."}
+{"norsk": "gå", "type": "Verb", "setning": "Toget [går] klokka sju.", "oversettelse": "The train leaves at seven."}
 {"norsk": "ha", "type": "Verb", "setning": "Vi [har] en katt.", "oversettelse": "We have a cat."}
+{"norsk": "ha", "type": "Verb", "setning": "Jeg [har] to brødre.", "oversettelse": "I have two brothers."}
+{"norsk": "ha", "type": "Verb", "setning": "[Har] du en penn?", "oversettelse": "Do you have a pen?"}
 {"norsk": "hjelpe", "type": "Verb", "setning": "Jeg [hjelper] mamma på kjøkkenet.", "oversettelse": "I help Mum in the kitchen."}
+{"norsk": "hjelpe", "type": "Verb", "setning": "Hun [hjelper] meg med norsken.", "oversettelse": "She helps me with my Norwegian."}
+{"norsk": "hjelpe", "type": "Verb", "setning": "Kan du [hjelpe] oss?", "oversettelse": "Can you help us?"}
 {"norsk": "holde", "type": "Verb", "setning": "Hun [holder] barnet i hånda.", "oversettelse": "She holds the child by the hand."}
+{"norsk": "holde", "type": "Verb", "setning": "Jeg [holder] døra for deg.", "oversettelse": "I hold the door for you."}
+{"norsk": "holde", "type": "Verb", "setning": "Hun [holder] seg varm.", "oversettelse": "She keeps herself warm."}
 {"norsk": "høre", "type": "Verb", "setning": "Jeg [hører] på musikk.", "oversettelse": "I listen to music."}
+{"norsk": "høre", "type": "Verb", "setning": "[Hører] du meg?", "oversettelse": "Can you hear me?"}
+{"norsk": "høre", "type": "Verb", "setning": "Vi [hører] fugler i hagen.", "oversettelse": "We hear birds in the garden."}
 {"norsk": "kjenne", "type": "Verb", "setning": "Jeg [kjenner] henne godt.", "oversettelse": "I know her well."}
+{"norsk": "kjenne", "type": "Verb", "setning": "[Kjenner] du Ola?", "oversettelse": "Do you know Ola?"}
+{"norsk": "kjenne", "type": "Verb", "setning": "Jeg [kjenner] byen godt.", "oversettelse": "I know the city well."}
 {"norsk": "komme", "type": "Verb", "setning": "Bussen [kommer] snart.", "oversettelse": "The bus is coming soon."}
+{"norsk": "komme", "type": "Verb", "setning": "Hun [kommer] fra Tyskland.", "oversettelse": "She comes from Germany."}
+{"norsk": "komme", "type": "Verb", "setning": "[Kommer] du på festen?", "oversettelse": "Are you coming to the party?"}
 {"norsk": "kunne", "type": "Verb", "setning": "Jeg [kan] snakke norsk.", "oversettelse": "I can speak Norwegian."}
+{"norsk": "kunne", "type": "Verb", "setning": "[Kan] du svømme?", "oversettelse": "Can you swim?"}
+{"norsk": "kunne", "type": "Verb", "setning": "Vi [kan] gå i morgen.", "oversettelse": "We can go tomorrow."}
 {"norsk": "lage", "type": "Verb", "setning": "Pappa [lager] middag.", "oversettelse": "Dad makes dinner."}
+{"norsk": "lage", "type": "Verb", "setning": "Jeg [lager] kaffe.", "oversettelse": "I am making coffee."}
+{"norsk": "lage", "type": "Verb", "setning": "Barna [lager] en snømann.", "oversettelse": "The children are making a snowman."}
 {"norsk": "late", "type": "Verb", "setning": "Han [later] som han sover.", "oversettelse": "He pretends to be asleep."}
+{"norsk": "late", "type": "Verb", "setning": "Hun [later] som hun ikke hører.", "oversettelse": "She pretends not to hear."}
+{"norsk": "late", "type": "Verb", "setning": "Katten [later] som den sover.", "oversettelse": "The cat pretends to be asleep."}
 {"norsk": "le", "type": "Verb", "setning": "Barna [ler] høyt.", "oversettelse": "The children laugh loudly."}
+{"norsk": "le", "type": "Verb", "setning": "Hvorfor [ler] du?", "oversettelse": "Why are you laughing?"}
+{"norsk": "le", "type": "Verb", "setning": "Vi [ler] av vitsen.", "oversettelse": "We laugh at the joke."}
 {"norsk": "legge", "type": "Verb", "setning": "Jeg [legger] boka på bordet.", "oversettelse": "I put the book on the table."}
+{"norsk": "legge", "type": "Verb", "setning": "Hun [legger] barnet i senga.", "oversettelse": "She puts the child to bed."}
+{"norsk": "legge", "type": "Verb", "setning": "Han [legger] nøklene på bordet.", "oversettelse": "He puts the keys on the table."}
 {"norsk": "ligge", "type": "Verb", "setning": "Oslo [ligger] i Norge.", "oversettelse": "Oslo is located in Norway."}
+{"norsk": "ligge", "type": "Verb", "setning": "Katten [ligger] på sofaen.", "oversettelse": "The cat is lying on the sofa."}
+{"norsk": "ligge", "type": "Verb", "setning": "Hvor [ligger] butikken?", "oversettelse": "Where is the shop?"}
 {"norsk": "like", "type": "Verb", "setning": "Jeg [liker] kaffe.", "oversettelse": "I like coffee."}
+{"norsk": "like", "type": "Verb", "setning": "Hun [liker] å danse.", "oversettelse": "She likes to dance."}
+{"norsk": "like", "type": "Verb", "setning": "[Liker] du sjokolade?", "oversettelse": "Do you like chocolate?"}
 {"norsk": "mene", "type": "Verb", "setning": "Hva [mener] du?", "oversettelse": "What do you mean?"}
+{"norsk": "mene", "type": "Verb", "setning": "Jeg [mener] det er riktig.", "oversettelse": "I think it is right."}
+{"norsk": "mene", "type": "Verb", "setning": "Hun [mener] at vi må vente.", "oversettelse": "She thinks that we must wait."}
 {"norsk": "måtte", "type": "Verb", "setning": "Jeg [må] gå nå.", "oversettelse": "I have to go now."}
+{"norsk": "måtte", "type": "Verb", "setning": "Vi [må] stå opp tidlig.", "oversettelse": "We have to get up early."}
+{"norsk": "måtte", "type": "Verb", "setning": "Du [må] ikke glemme billetten.", "oversettelse": "You must not forget the ticket."}
 {"norsk": "rekke", "type": "Verb", "setning": "Jeg [rekker] ikke bussen.", "oversettelse": "I won't make it to the bus in time."}
+{"norsk": "rekke", "type": "Verb", "setning": "[Rekker] vi toget?", "oversettelse": "Will we make the train?"}
+{"norsk": "rekke", "type": "Verb", "setning": "Jeg [rekker] ikke å spise frokost.", "oversettelse": "I don't have time to eat breakfast."}
 {"norsk": "se", "type": "Verb", "setning": "Jeg [ser] en fugl.", "oversettelse": "I see a bird."}
+{"norsk": "se", "type": "Verb", "setning": "[Ser] du huset der borte?", "oversettelse": "Do you see the house over there?"}
+{"norsk": "se", "type": "Verb", "setning": "Vi [ser] en film i kveld.", "oversettelse": "We are watching a film tonight."}
 {"norsk": "sette", "type": "Verb", "setning": "Hun [setter] koppen på bordet.", "oversettelse": "She puts the cup on the table."}
+{"norsk": "sette", "type": "Verb", "setning": "Jeg [setter] meg her.", "oversettelse": "I sit down here."}
+{"norsk": "sette", "type": "Verb", "setning": "Hun [setter] blomstene i vann.", "oversettelse": "She puts the flowers in water."}
 {"norsk": "si", "type": "Verb", "setning": "Hva [sier] han?", "oversettelse": "What does he say?"}
+{"norsk": "si", "type": "Verb", "setning": "Hva [sier] du?", "oversettelse": "What are you saying?"}
+{"norsk": "si", "type": "Verb", "setning": "Han [sier] hei til alle.", "oversettelse": "He says hi to everyone."}
 {"norsk": "skulle", "type": "Verb", "setning": "Vi [skal] reise i morgen.", "oversettelse": "We are going to travel tomorrow."}
+{"norsk": "skulle", "type": "Verb", "setning": "Hva [skal] du gjøre i dag?", "oversettelse": "What are you going to do today?"}
+{"norsk": "skulle", "type": "Verb", "setning": "Jeg [skal] på jobb.", "oversettelse": "I am going to work."}
 {"norsk": "slutte", "type": "Verb", "setning": "Filmen [slutter] klokka ti.", "oversettelse": "The film ends at ten."}
+{"norsk": "slutte", "type": "Verb", "setning": "Hun [slutter] i jobben.", "oversettelse": "She is quitting her job."}
+{"norsk": "slutte", "type": "Verb", "setning": "Skolen [slutter] i juni.", "oversettelse": "School ends in June."}
 {"norsk": "slå", "type": "Verb", "setning": "Klokka [slår] tolv.", "oversettelse": "The clock strikes twelve."}
+{"norsk": "slå", "type": "Verb", "setning": "Han [slår] ballen langt.", "oversettelse": "He hits the ball far."}
+{"norsk": "slå", "type": "Verb", "setning": "Hjertet [slår] fort.", "oversettelse": "The heart beats fast."}
 {"norsk": "snakke", "type": "Verb", "setning": "Vi [snakker] norsk hjemme.", "oversettelse": "We speak Norwegian at home."}
+{"norsk": "snakke", "type": "Verb", "setning": "Hun [snakker] fort.", "oversettelse": "She speaks fast."}
+{"norsk": "snakke", "type": "Verb", "setning": "Vi [snakker] sammen i morgen.", "oversettelse": "We will talk tomorrow."}
 {"norsk": "spørre", "type": "Verb", "setning": "Læreren [spør] meg.", "oversettelse": "The teacher asks me."}
+{"norsk": "spørre", "type": "Verb", "setning": "Jeg [spør] om veien.", "oversettelse": "I ask for directions."}
+{"norsk": "spørre", "type": "Verb", "setning": "Barnet [spør] om mye.", "oversettelse": "The child asks about a lot of things."}
 {"norsk": "stå", "type": "Verb", "setning": "Han [står] ved døra.", "oversettelse": "He is standing by the door."}
+{"norsk": "stå", "type": "Verb", "setning": "Jeg [står] opp klokka sju.", "oversettelse": "I get up at seven o'clock."}
+{"norsk": "stå", "type": "Verb", "setning": "Det [står] en bil utenfor.", "oversettelse": "There is a car outside."}
 {"norsk": "svare", "type": "Verb", "setning": "Hun [svarer] på brevet.", "oversettelse": "She answers the letter."}
+{"norsk": "svare", "type": "Verb", "setning": "Hvorfor [svarer] du ikke?", "oversettelse": "Why don't you answer?"}
+{"norsk": "svare", "type": "Verb", "setning": "Hun [svarer] på telefonen.", "oversettelse": "She answers the phone."}
 {"norsk": "synes", "type": "Verb", "setning": "Jeg [synes] filmen er god.", "oversettelse": "I think the film is good."}
+{"norsk": "synes", "type": "Verb", "setning": "Hva [synes] du om boka?", "oversettelse": "What do you think of the book?"}
+{"norsk": "synes", "type": "Verb", "setning": "Vi [synes] det er kaldt.", "oversettelse": "We think it is cold."}
 {"norsk": "ta", "type": "Verb", "setning": "Jeg [tar] bussen til jobben.", "oversettelse": "I take the bus to work."}
+{"norsk": "ta", "type": "Verb", "setning": "Hun [tar] en kopp te.", "oversettelse": "She has a cup of tea."}
+{"norsk": "ta", "type": "Verb", "setning": "[Tar] du toget i dag?", "oversettelse": "Are you taking the train today?"}
 {"norsk": "tenke", "type": "Verb", "setning": "Jeg [tenker] på deg.", "oversettelse": "I am thinking of you."}
+{"norsk": "tenke", "type": "Verb", "setning": "Hva [tenker] du på?", "oversettelse": "What are you thinking about?"}
+{"norsk": "tenke", "type": "Verb", "setning": "Hun [tenker] på ferien.", "oversettelse": "She is thinking about the holiday."}
 {"norsk": "trenge", "type": "Verb", "setning": "Jeg [trenger] hjelp.", "oversettelse": "I need help."}
+{"norsk": "trenge", "type": "Verb", "setning": "Vi [trenger] mer melk.", "oversettelse": "We need more milk."}
+{"norsk": "trenge", "type": "Verb", "setning": "[Trenger] du en paraply?", "oversettelse": "Do you need an umbrella?"}
 {"norsk": "tro", "type": "Verb", "setning": "Jeg [tror] det regner i morgen.", "oversettelse": "I think it will rain tomorrow."}
+{"norsk": "tro", "type": "Verb", "setning": "Jeg [tror] på deg.", "oversettelse": "I believe in you."}
+{"norsk": "tro", "type": "Verb", "setning": "[Tror] du det blir sol?", "oversettelse": "Do you think it will be sunny?"}
 {"norsk": "vente", "type": "Verb", "setning": "Vi [venter] på bussen.", "oversettelse": "We are waiting for the bus."}
+{"norsk": "vente", "type": "Verb", "setning": "Hun [venter] på svar.", "oversettelse": "She is waiting for an answer."}
+{"norsk": "vente", "type": "Verb", "setning": "Jeg [venter] på deg her.", "oversettelse": "I am waiting for you here."}
 {"norsk": "ville", "type": "Verb", "setning": "Jeg [vil] ha en is.", "oversettelse": "I want an ice cream."}
+{"norsk": "ville", "type": "Verb", "setning": "Hva [vil] du drikke?", "oversettelse": "What do you want to drink?"}
+{"norsk": "ville", "type": "Verb", "setning": "Barna [vil] leke ute.", "oversettelse": "The children want to play outside."}
 {"norsk": "vise", "type": "Verb", "setning": "Hun [viser] meg bildet.", "oversettelse": "She shows me the picture."}
+{"norsk": "vise", "type": "Verb", "setning": "Kan du [vise] meg veien?", "oversettelse": "Can you show me the way?"}
+{"norsk": "vise", "type": "Verb", "setning": "Kartet [viser] hvor vi er.", "oversettelse": "The map shows where we are."}
 {"norsk": "vite", "type": "Verb", "setning": "Jeg [vet] ikke.", "oversettelse": "I don't know."}
+{"norsk": "vite", "type": "Verb", "setning": "[Vet] du hvor han bor?", "oversettelse": "Do you know where he lives?"}
+{"norsk": "vite", "type": "Verb", "setning": "Hun [vet] svaret.", "oversettelse": "She knows the answer."}
 {"norsk": "være", "type": "Verb", "setning": "Jeg [er] trøtt.", "oversettelse": "I am tired."}
+{"norsk": "være", "type": "Verb", "setning": "Vi [er] fra Norge.", "oversettelse": "We are from Norway."}
+{"norsk": "være", "type": "Verb", "setning": "Hvor [er] du?", "oversettelse": "Where are you?"}
 {"norsk": "ønske", "type": "Verb", "setning": "Jeg [ønsker] meg en sykkel.", "oversettelse": "I wish for a bicycle."}
+{"norsk": "ønske", "type": "Verb", "setning": "Vi [ønsker] deg god tur!", "oversettelse": "We wish you a good trip!"}
+{"norsk": "ønske", "type": "Verb", "setning": "Hva [ønsker] du deg til jul?", "oversettelse": "What do you wish for at Christmas?"}
 {"norsk": "Hva", "type": "Spørreord", "setning": "[Hva] heter du?", "oversettelse": "What is your name?"}
+{"norsk": "Hva", "type": "Spørreord", "setning": "[Hva] koster det?", "oversettelse": "What does it cost?"}
+{"norsk": "Hva", "type": "Spørreord", "setning": "[Hva] er klokka?", "oversettelse": "What time is it?"}
 {"norsk": "Hvem", "type": "Spørreord", "setning": "[Hvem] er det?", "oversettelse": "Who is it?"}
+{"norsk": "Hvem", "type": "Spørreord", "setning": "[Hvem] er hun?", "oversettelse": "Who is she?"}
+{"norsk": "Hvem", "type": "Spørreord", "setning": "[Hvem] vil ha kake?", "oversettelse": "Who wants cake?"}
 {"norsk": "Hvor", "type": "Spørreord", "setning": "[Hvor] bor du?", "oversettelse": "Where do you live?"}
+{"norsk": "Hvor", "type": "Spørreord", "setning": "[Hvor] er toalettet?", "oversettelse": "Where is the toilet?"}
+{"norsk": "Hvor", "type": "Spørreord", "setning": "[Hvor] skal du?", "oversettelse": "Where are you going?"}
 {"norsk": "Hvordan", "type": "Spørreord", "setning": "[Hvordan] har du det?", "oversettelse": "How are you?"}
+{"norsk": "Hvordan", "type": "Spørreord", "setning": "[Hvordan] sier man det?", "oversettelse": "How do you say it?"}
+{"norsk": "Hvordan", "type": "Spørreord", "setning": "[Hvordan] kommer jeg til stasjonen?", "oversettelse": "How do I get to the station?"}
 {"norsk": "Hvorfor", "type": "Spørreord", "setning": "[Hvorfor] er du trist?", "oversettelse": "Why are you sad?"}
+{"norsk": "Hvorfor", "type": "Spørreord", "setning": "[Hvorfor] kommer du så sent?", "oversettelse": "Why are you so late?"}
+{"norsk": "Hvorfor", "type": "Spørreord", "setning": "[Hvorfor] lærer du norsk?", "oversettelse": "Why are you learning Norwegian?"}
 {"norsk": "Når", "type": "Spørreord", "setning": "[Når] kommer toget?", "oversettelse": "When does the train come?"}
+{"norsk": "Når", "type": "Spørreord", "setning": "[Når] begynner filmen?", "oversettelse": "When does the film start?"}
+{"norsk": "Når", "type": "Spørreord", "setning": "[Når] har du bursdag?", "oversettelse": "When is your birthday?"}
 {"norsk": "altså", "type": "Konjuksjoner", "setning": "Det regner, [altså] blir vi inne.", "oversettelse": "It is raining, so we stay inside."}
+{"norsk": "altså", "type": "Konjuksjoner", "setning": "Han er syk, [altså] kommer han ikke.", "oversettelse": "He is sick, so he isn't coming."}
+{"norsk": "altså", "type": "Konjuksjoner", "setning": "Du er [altså] fra Bergen?", "oversettelse": "So you are from Bergen?"}
 {"norsk": "at", "type": "Konjuksjoner", "setning": "Jeg vet [at] du er sulten.", "oversettelse": "I know that you are hungry."}
+{"norsk": "at", "type": "Konjuksjoner", "setning": "Hun sier [at] hun er trøtt.", "oversettelse": "She says that she is tired."}
+{"norsk": "at", "type": "Konjuksjoner", "setning": "Jeg tror [at] det blir fint vær.", "oversettelse": "I think that the weather will be nice."}
 {"norsk": "både", "type": "Konjuksjoner", "setning": "Jeg liker [både] te og kaffe.", "oversettelse": "I like both tea and coffee."}
+{"norsk": "både", "type": "Konjuksjoner", "setning": "[Både] mor og far er hjemme.", "oversettelse": "Both Mum and Dad are at home."}
+{"norsk": "både", "type": "Konjuksjoner", "setning": "Hun snakker [både] norsk og engelsk.", "oversettelse": "She speaks both Norwegian and English."}
 {"norsk": "dersom", "type": "Konjuksjoner", "setning": "[Dersom] det regner, blir vi hjemme.", "oversettelse": "If it rains, we stay at home."}
+{"norsk": "dersom", "type": "Konjuksjoner", "setning": "Ring meg [dersom] du trenger hjelp.", "oversettelse": "Call me if you need help."}
+{"norsk": "dersom", "type": "Konjuksjoner", "setning": "[Dersom] bussen er sen, tar vi taxi.", "oversettelse": "If the bus is late, we take a taxi."}
 {"norsk": "eller", "type": "Konjuksjoner", "setning": "Vil du ha te [eller] kaffe?", "oversettelse": "Do you want tea or coffee?"}
+{"norsk": "eller", "type": "Konjuksjoner", "setning": "Er det mandag [eller] tirsdag?", "oversettelse": "Is it Monday or Tuesday?"}
+{"norsk": "eller", "type": "Konjuksjoner", "setning": "Vil du gå [eller] sykle?", "oversettelse": "Do you want to walk or cycle?"}
 {"norsk": "enda", "type": "Konjuksjoner", "setning": "Hun er [enda] høyere enn broren.", "oversettelse": "She is even taller than her brother."}
+{"norsk": "enda", "type": "Konjuksjoner", "setning": "Det er [enda] kaldere i dag.", "oversettelse": "It is even colder today."}
+{"norsk": "enda", "type": "Konjuksjoner", "setning": "Jeg vil ha [enda] mer kake.", "oversettelse": "I want even more cake."}
 {"norsk": "enn", "type": "Konjuksjoner", "setning": "Han er eldre [enn] meg.", "oversettelse": "He is older than me."}
+{"norsk": "enn", "type": "Konjuksjoner", "setning": "Toget er raskere [enn] bussen.", "oversettelse": "The train is faster than the bus."}
+{"norsk": "enn", "type": "Konjuksjoner", "setning": "Hun er yngre [enn] søstera si.", "oversettelse": "She is younger than her sister."}
 {"norsk": "fordi", "type": "Konjuksjoner", "setning": "Jeg spiser [fordi] jeg er sulten.", "oversettelse": "I eat because I am hungry."}
+{"norsk": "fordi", "type": "Konjuksjoner", "setning": "Hun er glad [fordi] det er fredag.", "oversettelse": "She is happy because it is Friday."}
+{"norsk": "fordi", "type": "Konjuksjoner", "setning": "Vi blir inne [fordi] det regner.", "oversettelse": "We stay inside because it is raining."}
 {"norsk": "hvis/om", "type": "Konjuksjoner", "setning": "[Hvis] du vil, kan vi gå nå.", "oversettelse": "If you want, we can go now."}
+{"norsk": "hvis/om", "type": "Konjuksjoner", "setning": "[Hvis] det er sol, går vi på stranda.", "oversettelse": "If it is sunny, we go to the beach."}
+{"norsk": "hvis/om", "type": "Konjuksjoner", "setning": "Spør henne [om] hun vil bli med.", "oversettelse": "Ask her if she wants to come along."}
 {"norsk": "men", "type": "Konjuksjoner", "setning": "Jeg er trøtt, [men] glad.", "oversettelse": "I am tired but happy."}
+{"norsk": "men", "type": "Konjuksjoner", "setning": "Huset er lite, [men] fint.", "oversettelse": "The house is small but nice."}
+{"norsk": "men", "type": "Konjuksjoner", "setning": "Jeg vil gjerne, [men] jeg har ikke tid.", "oversettelse": "I would like to, but I don't have time."}
 {"norsk": "og", "type": "Konjuksjoner", "setning": "Jeg har en hund [og] en katt.", "oversettelse": "I have a dog and a cat."}
+{"norsk": "og", "type": "Konjuksjoner", "setning": "Vi spiser brød [og] ost.", "oversettelse": "We eat bread and cheese."}
+{"norsk": "og", "type": "Konjuksjoner", "setning": "Hun leser [og] skriver.", "oversettelse": "She reads and writes."}
 {"norsk": "siden", "type": "Konjuksjoner", "setning": "[Siden] det er sent, går vi hjem.", "oversettelse": "Since it is late, we are going home."}
+{"norsk": "siden", "type": "Konjuksjoner", "setning": "[Siden] du er syk, må du hvile.", "oversettelse": "Since you are sick, you must rest."}
+{"norsk": "siden", "type": "Konjuksjoner", "setning": "Jeg tar bussen [siden] bilen er på verkstedet.", "oversettelse": "I take the bus since the car is at the garage."}
 {"norsk": "som", "type": "Konjuksjoner", "setning": "Jeg har en venn [som] bor i Bergen.", "oversettelse": "I have a friend who lives in Bergen."}
+{"norsk": "som", "type": "Konjuksjoner", "setning": "Hun er like høy [som] meg.", "oversettelse": "She is as tall as me."}
+{"norsk": "som", "type": "Konjuksjoner", "setning": "Boka [som] ligger der, er min.", "oversettelse": "The book that is lying there is mine."}
 {"norsk": "i", "type": "Preposisjoner", "setning": "Jeg bor [i] Oslo.", "oversettelse": "I live in Oslo."}
+{"norsk": "i", "type": "Preposisjoner", "setning": "Melka er [i] kjøleskapet.", "oversettelse": "The milk is in the fridge."}
+{"norsk": "i", "type": "Preposisjoner", "setning": "Vi bor [i] et gult hus.", "oversettelse": "We live in a yellow house."}
 {"norsk": "på", "type": "Preposisjoner", "setning": "Boka ligger [på] bordet.", "oversettelse": "The book is on the table."}
+{"norsk": "på", "type": "Preposisjoner", "setning": "Jeg er [på] jobb.", "oversettelse": "I am at work."}
+{"norsk": "på", "type": "Preposisjoner", "setning": "Vi bor [på] landet.", "oversettelse": "We live in the countryside."}
 {"norsk": "ved", "type": "Preposisjoner", "setning": "Huset ligger [ved] sjøen.", "oversettelse": "The house is by the sea."}
+{"norsk": "ved", "type": "Preposisjoner", "setning": "Vi sitter [ved] vinduet.", "oversettelse": "We sit by the window."}
+{"norsk": "ved", "type": "Preposisjoner", "setning": "Han venter [ved] inngangen.", "oversettelse": "He waits at the entrance."}
 {"norsk": "til", "type": "Preposisjoner", "setning": "Jeg reiser [til] Bergen.", "oversettelse": "I am travelling to Bergen."}
+{"norsk": "til", "type": "Preposisjoner", "setning": "Vi går [til] butikken.", "oversettelse": "We walk to the shop."}
+{"norsk": "til", "type": "Preposisjoner", "setning": "Butikken er åpen [til] ni.", "oversettelse": "The shop is open until nine."}
 {"norsk": "mot", "type": "Preposisjoner", "setning": "Hun går [mot] døra.", "oversettelse": "She walks towards the door."}
+{"norsk": "mot", "type": "Preposisjoner", "setning": "Bilen kjører [mot] byen.", "oversettelse": "The car drives towards the city."}
+{"norsk": "mot", "type": "Preposisjoner", "setning": "Vi går [mot] stranda.", "oversettelse": "We walk towards the beach."}
 {"norsk": "fra", "type": "Preposisjoner", "setning": "Jeg kommer [fra] Spania.", "oversettelse": "I come from Spain."}
+{"norsk": "fra", "type": "Preposisjoner", "setning": "Jeg får et brev [fra] mormor.", "oversettelse": "I get a letter from Grandma."}
+{"norsk": "fra", "type": "Preposisjoner", "setning": "Butikken er åpen [fra] ni.", "oversettelse": "The shop is open from nine."}
 {"norsk": "av", "type": "Preposisjoner", "setning": "Bordet er laget [av] tre.", "oversettelse": "The table is made of wood."}
+{"norsk": "av", "type": "Preposisjoner", "setning": "Det er ei bok [av] Ibsen.", "oversettelse": "It is a book by Ibsen."}
+{"norsk": "av", "type": "Preposisjoner", "setning": "Jeg spiser halvparten [av] kaka.", "oversettelse": "I eat half of the cake."}
 {"norsk": "for", "type": "Preposisjoner", "setning": "Takk [for] maten!", "oversettelse": "Thanks for the food!"}
+{"norsk": "for", "type": "Preposisjoner", "setning": "Denne gaven er [for] deg.", "oversettelse": "This present is for you."}
+{"norsk": "for", "type": "Preposisjoner", "setning": "Jakka er for stor [for] meg.", "oversettelse": "The jacket is too big for me."}
 {"norsk": "med", "type": "Preposisjoner", "setning": "Jeg drikker te [med] melk.", "oversettelse": "I drink tea with milk."}
+{"norsk": "med", "type": "Preposisjoner", "setning": "Jeg reiser [med] tog.", "oversettelse": "I travel by train."}
+{"norsk": "med", "type": "Preposisjoner", "setning": "Hun går tur [med] hunden.", "oversettelse": "She goes for a walk with the dog."}
 {"norsk": "uten", "type": "Preposisjoner", "setning": "Jeg drikker kaffe [uten] sukker.", "oversettelse": "I drink coffee without sugar."}
+{"norsk": "uten", "type": "Preposisjoner", "setning": "Han går ut [uten] jakke.", "oversettelse": "He goes out without a jacket."}
+{"norsk": "uten", "type": "Preposisjoner", "setning": "Jeg kan ikke leve [uten] musikk.", "oversettelse": "I can't live without music."}
 {"norsk": "om", "type": "Preposisjoner", "setning": "Boka handler [om] en hund.", "oversettelse": "The book is about a dog."}
+{"norsk": "om", "type": "Preposisjoner", "setning": "Vi snakker [om] været.", "oversettelse": "We talk about the weather."}
+{"norsk": "om", "type": "Preposisjoner", "setning": "Fortell meg [om] deg selv.", "oversettelse": "Tell me about yourself."}
 {"norsk": "etter", "type": "Preposisjoner", "setning": "Vi spiser [etter] skolen.", "oversettelse": "We eat after school."}
+{"norsk": "etter", "type": "Preposisjoner", "setning": "Vi ses [etter] jobben.", "oversettelse": "See you after work."}
+{"norsk": "etter", "type": "Preposisjoner", "setning": "Hun kommer hjem [etter] klokka fem.", "oversettelse": "She comes home after five o'clock."}
 {"norsk": "over", "type": "Preposisjoner", "setning": "Lampa henger [over] bordet.", "oversettelse": "The lamp hangs above the table."}
+{"norsk": "over", "type": "Preposisjoner", "setning": "Fuglen flyr [over] huset.", "oversettelse": "The bird flies over the house."}
+{"norsk": "over", "type": "Preposisjoner", "setning": "Det er ei bru [over] elva.", "oversettelse": "There is a bridge over the river."}
 {"norsk": "under", "type": "Preposisjoner", "setning": "Katten sover [under] senga.", "oversettelse": "The cat sleeps under the bed."}
+{"norsk": "under", "type": "Preposisjoner", "setning": "Hunden ligger [under] bordet.", "oversettelse": "The dog lies under the table."}
+{"norsk": "under", "type": "Preposisjoner", "setning": "Det er fem grader [under] null.", "oversettelse": "It is five degrees below zero."}
 {"norsk": "mellom", "type": "Preposisjoner", "setning": "Banken ligger [mellom] butikken og kafeen.", "oversettelse": "The bank is between the shop and the cafe."}
+{"norsk": "mellom", "type": "Preposisjoner", "setning": "Jeg sitter [mellom] Ola og Kari.", "oversettelse": "I sit between Ola and Kari."}
+{"norsk": "mellom", "type": "Preposisjoner", "setning": "Vi spiser lunsj [mellom] tolv og ett.", "oversettelse": "We eat lunch between twelve and one."}
 {"norsk": "foran", "type": "Preposisjoner", "setning": "Bilen står [foran] huset.", "oversettelse": "The car is in front of the house."}
+{"norsk": "foran", "type": "Preposisjoner", "setning": "Hun står [foran] meg i køen.", "oversettelse": "She is standing in front of me in the queue."}
+{"norsk": "foran", "type": "Preposisjoner", "setning": "Vi møtes [foran] kinoen.", "oversettelse": "We meet in front of the cinema."}
 {"norsk": "bak", "type": "Preposisjoner", "setning": "Hagen er [bak] huset.", "oversettelse": "The garden is behind the house."}
+{"norsk": "bak", "type": "Preposisjoner", "setning": "Katten gjemmer seg [bak] sofaen.", "oversettelse": "The cat hides behind the sofa."}
+{"norsk": "bak", "type": "Preposisjoner", "setning": "Parkeringsplassen er [bak] butikken.", "oversettelse": "The car park is behind the shop."}
 {"norsk": "overfor", "type": "Preposisjoner", "setning": "Han bor [overfor] meg.", "oversettelse": "He lives opposite me."}
+{"norsk": "overfor", "type": "Preposisjoner", "setning": "Banken ligger [overfor] posten.", "oversettelse": "The bank is opposite the post office."}
+{"norsk": "overfor", "type": "Preposisjoner", "setning": "Hun sitter [overfor] meg på toget.", "oversettelse": "She sits opposite me on the train."}
 {"norsk": "utenfor", "type": "Preposisjoner", "setning": "Vi venter [utenfor] kinoen.", "oversettelse": "We are waiting outside the cinema."}
+{"norsk": "utenfor", "type": "Preposisjoner", "setning": "Bilen står [utenfor] huset.", "oversettelse": "The car is outside the house."}
+{"norsk": "utenfor", "type": "Preposisjoner", "setning": "Vi bor litt [utenfor] byen.", "oversettelse": "We live a little outside the city."}
 {"norsk": "omkring", "type": "Preposisjoner", "setning": "Vi sitter [omkring] bordet.", "oversettelse": "We sit around the table."}
+{"norsk": "omkring", "type": "Preposisjoner", "setning": "Det er trær [omkring] huset.", "oversettelse": "There are trees around the house."}
+{"norsk": "omkring", "type": "Preposisjoner", "setning": "Vi går [omkring] i byen.", "oversettelse": "We walk around the city."}
 {"norsk": "hos", "type": "Preposisjoner", "setning": "Jeg er [hos] tannlegen.", "oversettelse": "I am at the dentist's."}
+{"norsk": "hos", "type": "Preposisjoner", "setning": "Vi spiser middag [hos] mormor.", "oversettelse": "We eat dinner at Grandma's."}
+{"norsk": "hos", "type": "Preposisjoner", "setning": "Hun bor [hos] en venn.", "oversettelse": "She is staying with a friend."}
 {"norsk": "rundt", "type": "Preposisjoner", "setning": "Det koster [rundt] hundre kroner.", "oversettelse": "It costs about a hundred kroner."}
+{"norsk": "rundt", "type": "Preposisjoner", "setning": "Vi kommer [rundt] klokka åtte.", "oversettelse": "We will come around eight o'clock."}
+{"norsk": "rundt", "type": "Preposisjoner", "setning": "Det bor [rundt] femti mennesker her.", "oversettelse": "About fifty people live here."}
 {"norsk": "gjennom", "type": "Preposisjoner", "setning": "Vi går [gjennom] parken.", "oversettelse": "We walk through the park."}
+{"norsk": "gjennom", "type": "Preposisjoner", "setning": "Sola skinner [gjennom] vinduet.", "oversettelse": "The sun shines through the window."}
+{"norsk": "gjennom", "type": "Preposisjoner", "setning": "Toget kjører [gjennom] en tunnel.", "oversettelse": "The train goes through a tunnel."}
 {"norsk": "blant", "type": "Preposisjoner", "setning": "Hun er populær [blant] elevene.", "oversettelse": "She is popular among the pupils."}
+{"norsk": "blant", "type": "Preposisjoner", "setning": "Hun er den yngste [blant] oss.", "oversettelse": "She is the youngest among us."}
+{"norsk": "blant", "type": "Preposisjoner", "setning": "Det er en hund [blant] sauene.", "oversettelse": "There is a dog among the sheep."}
 {"norsk": "ikke", "type": "Adverb", "setning": "Jeg liker [ikke] fisk.", "oversettelse": "I don't like fish."}
+{"norsk": "ikke", "type": "Adverb", "setning": "Hun er [ikke] hjemme.", "oversettelse": "She is not at home."}
+{"norsk": "ikke", "type": "Adverb", "setning": "Jeg forstår [ikke].", "oversettelse": "I don't understand."}
 {"norsk": "så", "type": "Adverb", "setning": "Filmen er [så] morsom!", "oversettelse": "The film is so funny!"}
+{"norsk": "så", "type": "Adverb", "setning": "Det er [så] kaldt!", "oversettelse": "It is so cold!"}
+{"norsk": "så", "type": "Adverb", "setning": "Takk, det er [så] snilt av deg.", "oversettelse": "Thanks, that is so kind of you."}
 {"norsk": "også", "type": "Adverb", "setning": "Jeg er [også] sulten.", "oversettelse": "I am also hungry."}
+{"norsk": "også", "type": "Adverb", "setning": "Han kommer [også].", "oversettelse": "He is coming too."}
+{"norsk": "også", "type": "Adverb", "setning": "Vi har [også] en katt.", "oversettelse": "We also have a cat."}
 {"norsk": "inn", "type": "Adverb", "setning": "Kom [inn]!", "oversettelse": "Come in!"}
+{"norsk": "inn", "type": "Adverb", "setning": "Hun går [inn] i butikken.", "oversettelse": "She goes into the shop."}
+{"norsk": "inn", "type": "Adverb", "setning": "Hunden vil [inn].", "oversettelse": "The dog wants to come in."}
 {"norsk": "ut", "type": "Adverb", "setning": "Vi går [ut] i kveld.", "oversettelse": "We are going out tonight."}
+{"norsk": "ut", "type": "Adverb", "setning": "Kan jeg gå [ut] og leke?", "oversettelse": "Can I go out and play?"}
+{"norsk": "ut", "type": "Adverb", "setning": "Hun ser [ut] av vinduet.", "oversettelse": "She looks out of the window."}
 {"norsk": "heller", "type": "Adverb", "setning": "Jeg vil [heller] ha te.", "oversettelse": "I would rather have tea."}
+{"norsk": "heller", "type": "Adverb", "setning": "Jeg vil [heller] gå enn kjøre.", "oversettelse": "I would rather walk than drive."}
+{"norsk": "heller", "type": "Adverb", "setning": "Vi tar [heller] toget.", "oversettelse": "We would rather take the train."}
 {"norsk": "likevel", "type": "Adverb", "setning": "Det regner, men vi går ut [likevel].", "oversettelse": "It is raining, but we go out anyway."}
+{"norsk": "likevel", "type": "Adverb", "setning": "Han er trøtt, men jobber [likevel].", "oversettelse": "He is tired, but works anyway."}
+{"norsk": "likevel", "type": "Adverb", "setning": "Jeg kommer [likevel].", "oversettelse": "I am coming anyway."}
 {"norsk": "slik", "type": "Adverb", "setning": "Du må gjøre det [slik].", "oversettelse": "You must do it like this."}
+{"norsk": "slik", "type": "Adverb", "setning": "[Slik] lager du vafler.", "oversettelse": "This is how you make waffles."}
+{"norsk": "slik", "type": "Adverb", "setning": "Jeg liker ikke å bo [slik].", "oversettelse": "I don't like living like this."}
 {"norsk": "mer", "type": "Adverb", "setning": "Kan jeg få [mer] kaffe?", "oversettelse": "Can I have more coffee?"}
+{"norsk": "mer", "type": "Adverb", "setning": "Jeg vil lære [mer] norsk.", "oversettelse": "I want to learn more Norwegian."}
+{"norsk": "mer", "type": "Adverb", "setning": "Hun jobber [mer] enn meg.", "oversettelse": "She works more than me."}
 {"norsk": "mindre", "type": "Adverb", "setning": "Jeg vil spise [mindre] sukker.", "oversettelse": "I want to eat less sugar."}
+{"norsk": "mindre", "type": "Adverb", "setning": "Jeg har [mindre] tid nå.", "oversettelse": "I have less time now."}
+{"norsk": "mindre", "type": "Adverb", "setning": "Det koster [mindre] på nettet.", "oversettelse": "It costs less online."}
 {"norsk": "først", "type": "Adverb", "setning": "[Først] spiser vi, så går vi.", "oversettelse": "First we eat, then we go."}
+{"norsk": "først", "type": "Adverb", "setning": "Hvem kommer [først]?", "oversettelse": "Who comes first?"}
+{"norsk": "først", "type": "Adverb", "setning": "Vi må [først] kjøpe billetter.", "oversettelse": "We must first buy tickets."}
 {"norsk": "sammen", "type": "Adverb", "setning": "Vi spiser middag [sammen].", "oversettelse": "We eat dinner together."}
+{"norsk": "sammen", "type": "Adverb", "setning": "Vi går på skolen [sammen].", "oversettelse": "We go to school together."}
+{"norsk": "sammen", "type": "Adverb", "setning": "De bor [sammen] i Oslo.", "oversettelse": "They live together in Oslo."}
 {"norsk": "alene", "type": "Adverb", "setning": "Hun bor [alene].", "oversettelse": "She lives alone."}
+{"norsk": "alene", "type": "Adverb", "setning": "Jeg er [alene] hjemme.", "oversettelse": "I am home alone."}
+{"norsk": "alene", "type": "Adverb", "setning": "Han reiser [alene].", "oversettelse": "He travels alone."}
 {"norsk": "nå", "type": "Adverb", "setning": "Jeg må gå [nå].", "oversettelse": "I have to go now."}
+{"norsk": "nå", "type": "Adverb", "setning": "Hvor er du [nå]?", "oversettelse": "Where are you now?"}
+{"norsk": "nå", "type": "Adverb", "setning": "[Nå] regner det.", "oversettelse": "Now it is raining."}
 {"norsk": "da", "type": "Adverb", "setning": "Vi spiste, og [da] kom han.", "oversettelse": "We were eating, and then he came."}
+{"norsk": "da", "type": "Adverb", "setning": "Jeg var liten [da].", "oversettelse": "I was little then."}
+{"norsk": "da", "type": "Adverb", "setning": "Kom klokka fem, [da] er jeg hjemme.", "oversettelse": "Come at five, then I will be at home."}
 {"norsk": "bare", "type": "Adverb", "setning": "Jeg har [bare] ti kroner.", "oversettelse": "I only have ten kroner."}
+{"norsk": "bare", "type": "Adverb", "setning": "Det tar [bare] fem minutter.", "oversettelse": "It only takes five minutes."}
+{"norsk": "bare", "type": "Adverb", "setning": "Jeg vil [bare] sove.", "oversettelse": "I just want to sleep."}
 {"norsk": "opp", "type": "Adverb", "setning": "Hun går [opp] trappa.", "oversettelse": "She walks up the stairs."}
+{"norsk": "opp", "type": "Adverb", "setning": "Sola går [opp].", "oversettelse": "The sun rises."}
+{"norsk": "opp", "type": "Adverb", "setning": "Vi går [opp] på fjellet.", "oversettelse": "We go up the mountain."}
 {"norsk": "oppe", "type": "Adverb", "setning": "Barna er [oppe] på rommet.", "oversettelse": "The children are upstairs in their room."}
+{"norsk": "oppe", "type": "Adverb", "setning": "Er du [oppe] ennå?", "oversettelse": "Are you up yet?"}
+{"norsk": "oppe", "type": "Adverb", "setning": "Soverommet er [oppe].", "oversettelse": "The bedroom is upstairs."}
 {"norsk": "ned", "type": "Adverb", "setning": "Kom [ned] hit!", "oversettelse": "Come down here!"}
+{"norsk": "ned", "type": "Adverb", "setning": "Hun går [ned] trappa.", "oversettelse": "She walks down the stairs."}
+{"norsk": "ned", "type": "Adverb", "setning": "Sett deg [ned]!", "oversettelse": "Sit down!"}
 {"norsk": "der", "type": "Adverb", "setning": "Bussen står [der].", "oversettelse": "The bus is standing there."}
+{"norsk": "der", "type": "Adverb", "setning": "Jeg bor [der].", "oversettelse": "I live there."}
+{"norsk": "der", "type": "Adverb", "setning": "Hvem er [der]?", "oversettelse": "Who is there?"}
 {"norsk": "her", "type": "Adverb", "setning": "Jeg bor [her].", "oversettelse": "I live here."}
+{"norsk": "her", "type": "Adverb", "setning": "Er det ledig [her]?", "oversettelse": "Is this seat free?"}
+{"norsk": "her", "type": "Adverb", "setning": "Det er fint [her].", "oversettelse": "It is nice here."}
 {"norsk": "før", "type": "Adverb", "setning": "Jeg har vært her [før].", "oversettelse": "I have been here before."}
+{"norsk": "før", "type": "Adverb", "setning": "Jeg har aldri sett det [før].", "oversettelse": "I have never seen it before."}
+{"norsk": "før", "type": "Adverb", "setning": "Hun bodde i Trondheim [før].", "oversettelse": "She lived in Trondheim before."}
 {"norsk": "igjen", "type": "Adverb", "setning": "Kan du si det [igjen]?", "oversettelse": "Can you say it again?"}
+{"norsk": "igjen", "type": "Adverb", "setning": "Vi ses [igjen]!", "oversettelse": "See you again!"}
+{"norsk": "igjen", "type": "Adverb", "setning": "Hun leser boka [igjen].", "oversettelse": "She is reading the book again."}
 {"norsk": "helt", "type": "Adverb", "setning": "Jeg er [helt] ferdig.", "oversettelse": "I am completely finished."}
+{"norsk": "helt", "type": "Adverb", "setning": "Det er [helt] riktig.", "oversettelse": "That is completely right."}
+{"norsk": "helt", "type": "Adverb", "setning": "Glasset er [helt] fullt.", "oversettelse": "The glass is completely full."}
 {"norsk": "litt", "type": "Adverb", "setning": "Jeg snakker [litt] norsk.", "oversettelse": "I speak a little Norwegian."}
+{"norsk": "litt", "type": "Adverb", "setning": "Vent [litt]!", "oversettelse": "Wait a little!"}
+{"norsk": "litt", "type": "Adverb", "setning": "Jeg er [litt] trøtt.", "oversettelse": "I am a little tired."}
 {"norsk": "nok", "type": "Adverb", "setning": "Vi har [nok] mat.", "oversettelse": "We have enough food."}
+{"norsk": "nok", "type": "Adverb", "setning": "Har du sovet [nok]?", "oversettelse": "Have you slept enough?"}
+{"norsk": "nok", "type": "Adverb", "setning": "Takk, det er [nok].", "oversettelse": "Thanks, that's enough."}
 {"norsk": "alltid", "type": "Adverb", "setning": "Hun er [alltid] glad.", "oversettelse": "She is always happy."}
+{"norsk": "alltid", "type": "Adverb", "setning": "Bussen er [alltid] sen.", "oversettelse": "The bus is always late."}
+{"norsk": "alltid", "type": "Adverb", "setning": "Han drikker [alltid] te om morgenen.", "oversettelse": "He always drinks tea in the morning."}
 {"norsk": "aldri", "type": "Adverb", "setning": "Jeg drikker [aldri] kaffe.", "oversettelse": "I never drink coffee."}
+{"norsk": "aldri", "type": "Adverb", "setning": "Hun er [aldri] syk.", "oversettelse": "She is never sick."}
+{"norsk": "aldri", "type": "Adverb", "setning": "Jeg glemmer deg [aldri].", "oversettelse": "I will never forget you."}
 {"norsk": "ofte", "type": "Adverb", "setning": "Vi spiser [ofte] fisk.", "oversettelse": "We often eat fish."}
+{"norsk": "ofte", "type": "Adverb", "setning": "Regner det [ofte] i Bergen?", "oversettelse": "Does it often rain in Bergen?"}
+{"norsk": "ofte", "type": "Adverb", "setning": "Vi går [ofte] på tur.", "oversettelse": "We often go hiking."}
 {"norsk": "kanskje", "type": "Adverb", "setning": "[Kanskje] kommer han i morgen.", "oversettelse": "Maybe he will come tomorrow."}
+{"norsk": "kanskje", "type": "Adverb", "setning": "Vi ses [kanskje] i morgen.", "oversettelse": "Maybe we'll see each other tomorrow."}
+{"norsk": "kanskje", "type": "Adverb", "setning": "[Kanskje] er hun syk.", "oversettelse": "Maybe she is sick."}
 {"norsk": "mye", "type": "Adverb", "setning": "Han jobber [mye].", "oversettelse": "He works a lot."}
+{"norsk": "mye", "type": "Adverb", "setning": "Takk så [mye]!", "oversettelse": "Thank you so much!"}
+{"norsk": "mye", "type": "Adverb", "setning": "Hun leser [mye].", "oversettelse": "She reads a lot."}
 {"norsk": "rundt", "type": "Adverb", "setning": "Vi går [rundt] i byen.", "oversettelse": "We walk around the city."}
+{"norsk": "rundt", "type": "Adverb", "setning": "Hunden løper [rundt] i hagen.", "oversettelse": "The dog runs around in the garden."}
+{"norsk": "rundt", "type": "Adverb", "setning": "Snu deg [rundt]!", "oversettelse": "Turn around!"}
 {"norsk": "tilbake", "type": "Adverb", "setning": "Jeg kommer [tilbake] i morgen.", "oversettelse": "I will come back tomorrow."}
+{"norsk": "tilbake", "type": "Adverb", "setning": "Gi meg boka [tilbake].", "oversettelse": "Give me the book back."}
+{"norsk": "tilbake", "type": "Adverb", "setning": "Når kommer du [tilbake]?", "oversettelse": "When are you coming back?"}
 {"norsk": "mens", "type": "Adverb", "setning": "Han leser [mens] hun lager mat.", "oversettelse": "He reads while she cooks."}
+{"norsk": "mens", "type": "Adverb", "setning": "Hun synger [mens] hun jobber.", "oversettelse": "She sings while she works."}
+{"norsk": "mens", "type": "Adverb", "setning": "Jeg leser [mens] jeg venter.", "oversettelse": "I read while I wait."}
 {"norsk": "derfor", "type": "Adverb", "setning": "Jeg er syk, [derfor] blir jeg hjemme.", "oversettelse": "I am sick, that's why I stay at home."}
+{"norsk": "derfor", "type": "Adverb", "setning": "Det er kaldt, [derfor] tar jeg på meg lua.", "oversettelse": "It is cold, that's why I put on my hat."}
+{"norsk": "derfor", "type": "Adverb", "setning": "Hun er sulten, og [derfor] spiser hun.", "oversettelse": "She is hungry, and that's why she is eating."}
 {"norsk": "fram", "type": "Adverb", "setning": "Gå rett [fram].", "oversettelse": "Go straight ahead."}
+{"norsk": "fram", "type": "Adverb", "setning": "Bussen kommer [fram] klokka tre.", "oversettelse": "The bus arrives at three o'clock."}
+{"norsk": "fram", "type": "Adverb", "setning": "Hun går [fram] til tavla.", "oversettelse": "She walks up to the board."}
 {"norsk": "lenge", "type": "Adverb", "setning": "Vi venter [lenge] på bussen.", "oversettelse": "We wait a long time for the bus."}
+{"norsk": "lenge", "type": "Adverb", "setning": "Hvor [lenge] blir du?", "oversettelse": "How long are you staying?"}
+{"norsk": "lenge", "type": "Adverb", "setning": "Jeg har bodd her [lenge].", "oversettelse": "I have lived here for a long time."}
 {"norsk": "nesten", "type": "Adverb", "setning": "Klokka er [nesten] åtte.", "oversettelse": "It is almost eight o'clock."}
+{"norsk": "nesten", "type": "Adverb", "setning": "Jeg er [nesten] ferdig.", "oversettelse": "I am almost finished."}
+{"norsk": "nesten", "type": "Adverb", "setning": "Glasset er [nesten] tomt.", "oversettelse": "The glass is almost empty."}
 {"norsk": "frem", "type": "Adverb", "setning": "Hun ser [frem] til ferien.", "oversettelse": "She is looking forward to the holiday."}
+{"norsk": "frem", "type": "Adverb", "setning": "Han tar [frem] boka.", "oversettelse": "He takes out the book."}
+{"norsk": "frem", "type": "Adverb", "setning": "Gå rett [frem] til lyskrysset.", "oversettelse": "Go straight ahead to the traffic lights."}
 {"norsk": "mest", "type": "Adverb", "setning": "Jeg liker sommeren [mest].", "oversettelse": "I like summer the most."}
+{"norsk": "mest", "type": "Adverb", "setning": "Hvem spiser [mest]?", "oversettelse": "Who eats the most?"}
+{"norsk": "mest", "type": "Adverb", "setning": "Hun liker katter [mest].", "oversettelse": "She likes cats the most."}
 {"norsk": "tidligere", "type": "Adverb", "setning": "Jeg bodde i Bergen [tidligere].", "oversettelse": "I lived in Bergen before."}
+{"norsk": "tidligere", "type": "Adverb", "setning": "Kan du komme [tidligere]?", "oversettelse": "Can you come earlier?"}
+{"norsk": "tidligere", "type": "Adverb", "setning": "Jeg står opp [tidligere] om sommeren.", "oversettelse": "I get up earlier in the summer."}
 {"norsk": "senere", "type": "Adverb", "setning": "Vi snakkes [senere]!", "oversettelse": "Talk to you later!"}
+{"norsk": "senere", "type": "Adverb", "setning": "Jeg ringer deg [senere].", "oversettelse": "I will call you later."}
+{"norsk": "senere", "type": "Adverb", "setning": "Vi spiser [senere] i dag.", "oversettelse": "We are eating later today."}
 {"norsk": "samtidig", "type": "Adverb", "setning": "Vi kommer [samtidig].", "oversettelse": "We arrive at the same time."}
+{"norsk": "samtidig", "type": "Adverb", "setning": "De snakker [samtidig].", "oversettelse": "They talk at the same time."}
+{"norsk": "samtidig", "type": "Adverb", "setning": "Jeg kan ikke lese og høre på musikk [samtidig].", "oversettelse": "I can't read and listen to music at the same time."}
 {"norsk": "meget", "type": "Adverb", "setning": "Maten er [meget] god.", "oversettelse": "The food is very good."}
+{"norsk": "meget", "type": "Adverb", "setning": "Det er [meget] varmt i dag.", "oversettelse": "It is very warm today."}
+{"norsk": "meget", "type": "Adverb", "setning": "Hun er [meget] flink.", "oversettelse": "She is very clever."}
 {"norsk": "lite", "type": "Adverb", "setning": "Han spiser [lite].", "oversettelse": "He eats little."}
+{"norsk": "lite", "type": "Adverb", "setning": "Vi har [lite] tid.", "oversettelse": "We have little time."}
+{"norsk": "lite", "type": "Adverb", "setning": "Det regner [lite] her om sommeren.", "oversettelse": "It rains little here in summer."}
 {"norsk": "ikke ennå", "type": "Adverb", "setning": "Er du ferdig? Nei, [ikke ennå].", "oversettelse": "Are you finished? No, not yet."}
+{"norsk": "ikke ennå", "type": "Adverb", "setning": "Har du spist? Nei, [ikke ennå].", "oversettelse": "Have you eaten? No, not yet."}
+{"norsk": "ikke ennå", "type": "Adverb", "setning": "Er bussen her? [Ikke ennå].", "oversettelse": "Is the bus here? Not yet."}
 {"norsk": "allerede", "type": "Adverb", "setning": "Hun er [allerede] her.", "oversettelse": "She is already here."}
+{"norsk": "allerede", "type": "Adverb", "setning": "Er du [allerede] ferdig?", "oversettelse": "Are you already finished?"}
+{"norsk": "allerede", "type": "Adverb", "setning": "Det er [allerede] mørkt.", "oversettelse": "It is already dark."}
 {"norsk": "inne", "type": "Adverb", "setning": "Vi er [inne] fordi det regner.", "oversettelse": "We are inside because it is raining."}
+{"norsk": "inne", "type": "Adverb", "setning": "Katten er [inne].", "oversettelse": "The cat is inside."}
+{"norsk": "inne", "type": "Adverb", "setning": "Vi spiser [inne] i dag.", "oversettelse": "We are eating indoors today."}
 {"norsk": "ute", "type": "Adverb", "setning": "Barna leker [ute].", "oversettelse": "The children are playing outside."}
+{"norsk": "ute", "type": "Adverb", "setning": "Det er kaldt [ute].", "oversettelse": "It is cold outside."}
+{"norsk": "ute", "type": "Adverb", "setning": "Hunden sover [ute].", "oversettelse": "The dog sleeps outdoors."}
 {"norsk": "hjem", "type": "Adverb", "setning": "Jeg går [hjem] nå.", "oversettelse": "I am going home now."}
+{"norsk": "hjem", "type": "Adverb", "setning": "Vi kjører [hjem] etter jobben.", "oversettelse": "We drive home after work."}
+{"norsk": "hjem", "type": "Adverb", "setning": "Jeg vil gå [hjem].", "oversettelse": "I want to go home."}
 {"norsk": "hjemme", "type": "Adverb", "setning": "Jeg er [hjemme] i dag.", "oversettelse": "I am at home today."}
+{"norsk": "hjemme", "type": "Adverb", "setning": "Er mamma [hjemme]?", "oversettelse": "Is Mum at home?"}
+{"norsk": "hjemme", "type": "Adverb", "setning": "Vi spiser middag [hjemme].", "oversettelse": "We eat dinner at home."}
 {"norsk": "lenger", "type": "Adverb", "setning": "Jeg orker ikke å gå [lenger].", "oversettelse": "I can't walk any further."}
+{"norsk": "lenger", "type": "Adverb", "setning": "Jeg kan ikke vente [lenger].", "oversettelse": "I can't wait any longer."}
+{"norsk": "lenger", "type": "Adverb", "setning": "Butikken ligger litt [lenger] ned i gata.", "oversettelse": "The shop is a bit further down the street."}
 {"norsk": "særlig", "type": "Adverb", "setning": "Jeg liker frukt, [særlig] epler.", "oversettelse": "I like fruit, especially apples."}
+{"norsk": "særlig", "type": "Adverb", "setning": "Jeg liker ikke kaffe, [særlig] ikke svart.", "oversettelse": "I don't like coffee, especially not black."}
+{"norsk": "særlig", "type": "Adverb", "setning": "Det er [særlig] kaldt i januar.", "oversettelse": "It is particularly cold in January."}
 {"norsk": "akkurat", "type": "Adverb", "setning": "Klokka er [akkurat] tolv.", "oversettelse": "It is exactly twelve o'clock."}
+{"norsk": "akkurat", "type": "Adverb", "setning": "Bussen kommer [akkurat] nå.", "oversettelse": "The bus is coming right now."}
+{"norsk": "akkurat", "type": "Adverb", "setning": "Det er [akkurat] det jeg mener!", "oversettelse": "That is exactly what I mean!"}
 {"norsk": "borte", "type": "Adverb", "setning": "Nøklene er [borte].", "oversettelse": "The keys are gone."}
+{"norsk": "borte", "type": "Adverb", "setning": "Hun er [borte] i dag.", "oversettelse": "She is away today."}
+{"norsk": "borte", "type": "Adverb", "setning": "Sola er [borte].", "oversettelse": "The sun is gone."}
 {"norsk": "plutselig", "type": "Adverb", "setning": "[Plutselig] begynner det å regne.", "oversettelse": "Suddenly it starts to rain."}
+{"norsk": "plutselig", "type": "Adverb", "setning": "[Plutselig] ringer telefonen.", "oversettelse": "Suddenly the phone rings."}
+{"norsk": "plutselig", "type": "Adverb", "setning": "Han står [plutselig] i døra.", "oversettelse": "Suddenly he is standing in the doorway."}
 {"norsk": "snart", "type": "Adverb", "setning": "Vi er [snart] hjemme.", "oversettelse": "We will be home soon."}
+{"norsk": "snart", "type": "Adverb", "setning": "Det er [snart] jul.", "oversettelse": "It will soon be Christmas."}
+{"norsk": "snart", "type": "Adverb", "setning": "Ses vi [snart]?", "oversettelse": "Will we see each other soon?"}
 {"norsk": "svært", "type": "Adverb", "setning": "Det er [svært] kaldt i dag.", "oversettelse": "It is very cold today."}
+{"norsk": "svært", "type": "Adverb", "setning": "Hun er [svært] glad.", "oversettelse": "She is very happy."}
+{"norsk": "svært", "type": "Adverb", "setning": "Det er [svært] viktig.", "oversettelse": "It is very important."}
 {"norsk": "dessuten", "type": "Adverb", "setning": "Huset er stort, og [dessuten] billig.", "oversettelse": "The house is big, and moreover cheap."}
+{"norsk": "dessuten", "type": "Adverb", "setning": "Jeg har ikke tid, og [dessuten] er jeg trøtt.", "oversettelse": "I don't have time, and besides, I am tired."}
+{"norsk": "dessuten", "type": "Adverb", "setning": "Leiligheten er stor. [Dessuten] har den balkong.", "oversettelse": "The flat is big. Moreover, it has a balcony."}
 {"norsk": "gjerne", "type": "Adverb", "setning": "Jeg vil [gjerne] ha en kaffe.", "oversettelse": "I would like a coffee."}
+{"norsk": "gjerne", "type": "Adverb", "setning": "Ja, [gjerne]!", "oversettelse": "Yes, gladly!"}
+{"norsk": "gjerne", "type": "Adverb", "setning": "Hun hjelper [gjerne] til.", "oversettelse": "She is happy to help."}
 {"norsk": "imidlertid", "type": "Adverb", "setning": "Været er [imidlertid] fint i dag.", "oversettelse": "The weather is nice today, however."}
+{"norsk": "imidlertid", "type": "Adverb", "setning": "Han er [imidlertid] ikke hjemme.", "oversettelse": "However, he is not at home."}
+{"norsk": "imidlertid", "type": "Adverb", "setning": "Planen er god. Den er [imidlertid] dyr.", "oversettelse": "The plan is good. However, it is expensive."}
 {"norsk": "dermed", "type": "Adverb", "setning": "Bussen er sen, og [dermed] kommer jeg for sent.", "oversettelse": "The bus is late, and thus I will be late."}
+{"norsk": "dermed", "type": "Adverb", "setning": "Det regner, og [dermed] blir vi hjemme.", "oversettelse": "It is raining, and so we stay at home."}
+{"norsk": "dermed", "type": "Adverb", "setning": "Hun vinner, og [dermed] er hun best.", "oversettelse": "She wins, and thus she is the best."}
 {"norsk": "bra", "type": "Adverb", "setning": "Jeg har det [bra].", "oversettelse": "I am fine."}
+{"norsk": "bra", "type": "Adverb", "setning": "Du snakker [bra] norsk!", "oversettelse": "You speak good Norwegian!"}
+{"norsk": "bra", "type": "Adverb", "setning": "Det går [bra].", "oversettelse": "It is going well."}
 {"norsk": "sikkert", "type": "Adverb", "setning": "Hun kommer [sikkert] snart.", "oversettelse": "She is surely coming soon."}
+{"norsk": "sikkert", "type": "Adverb", "setning": "Det blir [sikkert] fint vær.", "oversettelse": "It will surely be nice weather."}
+{"norsk": "sikkert", "type": "Adverb", "setning": "Han er [sikkert] hjemme nå.", "oversettelse": "He is surely at home now."}
 {"norsk": "virkelig", "type": "Adverb", "setning": "Det er [virkelig] fint her.", "oversettelse": "It is really nice here."}
+{"norsk": "virkelig", "type": "Adverb", "setning": "Er det [virkelig] sant?", "oversettelse": "Is it really true?"}
+{"norsk": "virkelig", "type": "Adverb", "setning": "Jeg liker [virkelig] Norge.", "oversettelse": "I really like Norway."}
 {"norsk": "ganske", "type": "Adverb", "setning": "Det er [ganske] kaldt ute.", "oversettelse": "It is quite cold outside."}
+{"norsk": "ganske", "type": "Adverb", "setning": "Hun snakker [ganske] godt norsk.", "oversettelse": "She speaks Norwegian quite well."}
+{"norsk": "ganske", "type": "Adverb", "setning": "Filmen er [ganske] lang.", "oversettelse": "The film is quite long."}
 {"norsk": "ellers", "type": "Adverb", "setning": "Skynd deg, [ellers] kommer vi for sent.", "oversettelse": "Hurry up, otherwise we will be late."}
+{"norsk": "ellers", "type": "Adverb", "setning": "[Ellers] alt bra?", "oversettelse": "Everything else OK?"}
+{"norsk": "ellers", "type": "Adverb", "setning": "Ta på deg jakka, [ellers] fryser du.", "oversettelse": "Put on your jacket, otherwise you'll be cold."}
 {"norsk": "minst", "type": "Adverb", "setning": "Jeg sover [minst] åtte timer.", "oversettelse": "I sleep at least eight hours."}
+{"norsk": "minst", "type": "Adverb", "setning": "Det tar [minst] en time.", "oversettelse": "It takes at least an hour."}
+{"norsk": "minst", "type": "Adverb", "setning": "Drikk [minst] to liter vann.", "oversettelse": "Drink at least two litres of water."}
 {"norsk": "fortsatt", "type": "Adverb", "setning": "Han sover [fortsatt].", "oversettelse": "He is still sleeping."}
+{"norsk": "fortsatt", "type": "Adverb", "setning": "Er du [fortsatt] syk?", "oversettelse": "Are you still sick?"}
+{"norsk": "fortsatt", "type": "Adverb", "setning": "Vi bor [fortsatt] i Oslo.", "oversettelse": "We still live in Oslo."}
 {"norsk": "stadig", "type": "Adverb", "setning": "Hun ringer meg [stadig].", "oversettelse": "She calls me all the time."}
+{"norsk": "stadig", "type": "Adverb", "setning": "Det blir [stadig] kaldere.", "oversettelse": "It is getting colder and colder."}
+{"norsk": "stadig", "type": "Adverb", "setning": "Han kommer [stadig] for sent.", "oversettelse": "He is constantly late."}
 {"norsk": "visst", "type": "Adverb", "setning": "Kommer du? Ja [visst]!", "oversettelse": "Are you coming? Yes, certainly!"}
+{"norsk": "visst", "type": "Adverb", "setning": "Jo [visst]!", "oversettelse": "Yes, of course!"}
+{"norsk": "visst", "type": "Adverb", "setning": "Det vet jeg [visst]!", "oversettelse": "I certainly know that!"}
 {"norsk": "fremdeles", "type": "Adverb", "setning": "Det regner [fremdeles].", "oversettelse": "It is still raining."}
+{"norsk": "fremdeles", "type": "Adverb", "setning": "Hun bor [fremdeles] hjemme.", "oversettelse": "She still lives at home."}
+{"norsk": "fremdeles", "type": "Adverb", "setning": "Er butikken [fremdeles] åpen?", "oversettelse": "Is the shop still open?"}
 {"norsk": "imot", "type": "Adverb", "setning": "Jeg har ingenting [imot] det.", "oversettelse": "I have nothing against it."}
+{"norsk": "imot", "type": "Adverb", "setning": "Er du for eller [imot]?", "oversettelse": "Are you for or against?"}
+{"norsk": "imot", "type": "Adverb", "setning": "Han tar [imot] gaven.", "oversettelse": "He accepts the present."}
 {"norsk": "helst", "type": "Adverb", "setning": "Jeg vil [helst] bli hjemme.", "oversettelse": "I would prefer to stay at home."}
+{"norsk": "helst", "type": "Adverb", "setning": "Hva vil du [helst] gjøre?", "oversettelse": "What would you most like to do?"}
+{"norsk": "helst", "type": "Adverb", "setning": "Jeg drikker [helst] te.", "oversettelse": "I prefer to drink tea."}
 {"norsk": "nettopp", "type": "Adverb", "setning": "Jeg har [nettopp] spist.", "oversettelse": "I have just eaten."}
+{"norsk": "nettopp", "type": "Adverb", "setning": "Hun har [nettopp] kommet.", "oversettelse": "She has just arrived."}
+{"norsk": "nettopp", "type": "Adverb", "setning": "Toget har [nettopp] gått.", "oversettelse": "The train has just left."}
 {"norsk": "nærmere", "type": "Adverb", "setning": "Kom [nærmere]!", "oversettelse": "Come closer!"}
+{"norsk": "nærmere", "type": "Adverb", "setning": "Butikken er [nærmere] enn banken.", "oversettelse": "The shop is closer than the bank."}
+{"norsk": "nærmere", "type": "Adverb", "setning": "Kan du sitte [nærmere]?", "oversettelse": "Can you sit closer?"}
 {"norsk": "ny", "type": "Adjektiv", "setning": "Jeg har en [ny] bil.", "oversettelse": "I have a new car."}
+{"norsk": "ny", "type": "Adjektiv", "setning": "Har du en [ny] telefon?", "oversettelse": "Do you have a new phone?"}
+{"norsk": "ny", "type": "Adjektiv", "setning": "Vi har [nye] naboer.", "oversettelse": "We have new neighbours."}
 {"norsk": "gammel", "type": "Adjektiv", "setning": "Huset er [gammelt].", "oversettelse": "The house is old."}
+{"norsk": "gammel", "type": "Adjektiv", "setning": "Han er åtti år [gammel].", "oversettelse": "He is eighty years old."}
+{"norsk": "gammel", "type": "Adjektiv", "setning": "Jeg liker [gamle] filmer.", "oversettelse": "I like old films."}
 {"norsk": "ung", "type": "Adjektiv", "setning": "Læreren er [ung] og snill.", "oversettelse": "The teacher is young and kind."}
+{"norsk": "ung", "type": "Adjektiv", "setning": "Hun er for [ung] til å kjøre bil.", "oversettelse": "She is too young to drive a car."}
+{"norsk": "ung", "type": "Adjektiv", "setning": "Han er en [ung] mann.", "oversettelse": "He is a young man."}
 {"norsk": "god", "type": "Adjektiv", "setning": "Maten er [god].", "oversettelse": "The food is good."}
+{"norsk": "god", "type": "Adjektiv", "setning": "Ha en [god] dag!", "oversettelse": "Have a good day!"}
+{"norsk": "god", "type": "Adjektiv", "setning": "Dette er et [godt] spørsmål.", "oversettelse": "This is a good question."}
 {"norsk": "bedre", "type": "Adjektiv", "setning": "Jeg føler meg [bedre] i dag.", "oversettelse": "I feel better today."}
+{"norsk": "bedre", "type": "Adjektiv", "setning": "Det er [bedre] å gå.", "oversettelse": "It is better to walk."}
+{"norsk": "bedre", "type": "Adjektiv", "setning": "Hun synger [bedre] enn meg.", "oversettelse": "She sings better than me."}
 {"norsk": "dårlig", "type": "Adjektiv", "setning": "Været er [dårlig] i dag.", "oversettelse": "The weather is bad today."}
+{"norsk": "dårlig", "type": "Adjektiv", "setning": "Jeg har [dårlig] tid.", "oversettelse": "I am short of time."}
+{"norsk": "dårlig", "type": "Adjektiv", "setning": "Det er en [dårlig] idé.", "oversettelse": "It is a bad idea."}
 {"norsk": "mange", "type": "Adjektiv", "setning": "Hun har [mange] venner.", "oversettelse": "She has many friends."}
+{"norsk": "mange", "type": "Adjektiv", "setning": "Det er [mange] biler i byen.", "oversettelse": "There are many cars in the city."}
+{"norsk": "mange", "type": "Adjektiv", "setning": "Hvor [mange] barn har du?", "oversettelse": "How many children do you have?"}
 {"norsk": "flere", "type": "Adjektiv", "setning": "Vi trenger [flere] stoler.", "oversettelse": "We need more chairs."}
+{"norsk": "flere", "type": "Adjektiv", "setning": "Hun har [flere] bøker enn meg.", "oversettelse": "She has more books than me."}
+{"norsk": "flere", "type": "Adjektiv", "setning": "Det kommer [flere] gjester i kveld.", "oversettelse": "More guests are coming tonight."}
 {"norsk": "få", "type": "Adjektiv", "setning": "Det er [få] folk her i dag.", "oversettelse": "There are few people here today."}
+{"norsk": "få", "type": "Adjektiv", "setning": "Bare [få] vet svaret.", "oversettelse": "Only a few know the answer."}
+{"norsk": "få", "type": "Adjektiv", "setning": "Det er [få] biler på veien i dag.", "oversettelse": "There are few cars on the road today."}
 {"norsk": "stor", "type": "Adjektiv", "setning": "Vi har et [stort] hus.", "oversettelse": "We have a big house."}
+{"norsk": "stor", "type": "Adjektiv", "setning": "Elefanten er [stor].", "oversettelse": "The elephant is big."}
+{"norsk": "stor", "type": "Adjektiv", "setning": "Vi bor i en [stor] by.", "oversettelse": "We live in a big city."}
 {"norsk": "liten", "type": "Adjektiv", "setning": "Jeg har en [liten] hund.", "oversettelse": "I have a little dog."}
+{"norsk": "liten", "type": "Adjektiv", "setning": "Babyen er [liten].", "oversettelse": "The baby is small."}
+{"norsk": "liten", "type": "Adjektiv", "setning": "De har et [lite] hus.", "oversettelse": "They have a small house."}
 {"norsk": "lang", "type": "Adjektiv", "setning": "Det er en [lang] vei hjem.", "oversettelse": "It is a long way home."}
+{"norsk": "lang", "type": "Adjektiv", "setning": "Hun har [langt] hår.", "oversettelse": "She has long hair."}
+{"norsk": "lang", "type": "Adjektiv", "setning": "Køen er [lang].", "oversettelse": "The queue is long."}
 {"norsk": "kort", "type": "Adjektiv", "setning": "Filmen er [kort].", "oversettelse": "The film is short."}
+{"norsk": "kort", "type": "Adjektiv", "setning": "Han har [kort] hår.", "oversettelse": "He has short hair."}
+{"norsk": "kort", "type": "Adjektiv", "setning": "Vi tar en [kort] pause.", "oversettelse": "We take a short break."}
 {"norsk": "kjent", "type": "Adjektiv", "setning": "Hun er en [kjent] sanger.", "oversettelse": "She is a famous singer."}
+{"norsk": "kjent", "type": "Adjektiv", "setning": "Byen er [kjent] for fisk.", "oversettelse": "The city is known for fish."}
+{"norsk": "kjent", "type": "Adjektiv", "setning": "Han er [kjent] i hele Norge.", "oversettelse": "He is famous all over Norway."}
 {"norsk": "fast", "type": "Adjektiv", "setning": "Han har en [fast] jobb.", "oversettelse": "He has a permanent job."}
+{"norsk": "fast", "type": "Adjektiv", "setning": "Hun har en [fast] plass ved vinduet.", "oversettelse": "She has a permanent seat by the window."}
+{"norsk": "fast", "type": "Adjektiv", "setning": "Vi har [faste] priser.", "oversettelse": "We have fixed prices."}
 {"norsk": "lett", "type": "Adjektiv", "setning": "Norsk er [lett]!", "oversettelse": "Norwegian is easy!"}
+{"norsk": "lett", "type": "Adjektiv", "setning": "Oppgava er [lett].", "oversettelse": "The task is easy."}
+{"norsk": "lett", "type": "Adjektiv", "setning": "Det er [lett] å lage pannekaker.", "oversettelse": "It is easy to make pancakes."}
 {"norsk": "vanskelig", "type": "Adjektiv", "setning": "Oppgava er [vanskelig].", "oversettelse": "The task is difficult."}
+{"norsk": "vanskelig", "type": "Adjektiv", "setning": "Norsk er ikke så [vanskelig].", "oversettelse": "Norwegian is not that difficult."}
+{"norsk": "vanskelig", "type": "Adjektiv", "setning": "Det er et [vanskelig] spørsmål.", "oversettelse": "It is a difficult question."}
 {"norsk": "full", "type": "Adjektiv", "setning": "Bussen er [full].", "oversettelse": "The bus is full."}
+{"norsk": "full", "type": "Adjektiv", "setning": "Glasset er [fullt].", "oversettelse": "The glass is full."}
+{"norsk": "full", "type": "Adjektiv", "setning": "Bussen er [full] av folk.", "oversettelse": "The bus is full of people."}
 {"norsk": "hel", "type": "Adjektiv", "setning": "Jeg spiser en [hel] pizza.", "oversettelse": "I eat a whole pizza."}
+{"norsk": "hel", "type": "Adjektiv", "setning": "Hun sover [hele] dagen.", "oversettelse": "She sleeps all day."}
+{"norsk": "hel", "type": "Adjektiv", "setning": "Jeg leser [hele] boka.", "oversettelse": "I read the whole book."}
 {"norsk": "glad", "type": "Adjektiv", "setning": "Barna er [glade].", "oversettelse": "The children are happy."}
+{"norsk": "glad", "type": "Adjektiv", "setning": "Jeg er [glad] i deg.", "oversettelse": "I love you."}
+{"norsk": "glad", "type": "Adjektiv", "setning": "Hun er [glad] i dag.", "oversettelse": "She is happy today."}
 {"norsk": "viktig", "type": "Adjektiv", "setning": "Dette er [viktig].", "oversettelse": "This is important."}
+{"norsk": "viktig", "type": "Adjektiv", "setning": "Søvn er [viktig].", "oversettelse": "Sleep is important."}
+{"norsk": "viktig", "type": "Adjektiv", "setning": "Hun har en [viktig] jobb.", "oversettelse": "She has an important job."}
 {"norsk": "redd", "type": "Adjektiv", "setning": "Hun er [redd] for hunder.", "oversettelse": "She is scared of dogs."}
+{"norsk": "redd", "type": "Adjektiv", "setning": "Er du [redd] for mørket?", "oversettelse": "Are you afraid of the dark?"}
+{"norsk": "redd", "type": "Adjektiv", "setning": "Barnet er [redd].", "oversettelse": "The child is scared."}
 {"norsk": "sterk", "type": "Adjektiv", "setning": "Kaffen er [sterk].", "oversettelse": "The coffee is strong."}
+{"norsk": "sterk", "type": "Adjektiv", "setning": "Han er veldig [sterk].", "oversettelse": "He is very strong."}
+{"norsk": "sterk", "type": "Adjektiv", "setning": "Det er [sterk] vind i dag.", "oversettelse": "There is a strong wind today."}
 {"norsk": "vant", "type": "Adjektiv", "setning": "Jeg er [vant] til kulde.", "oversettelse": "I am used to the cold."}
+{"norsk": "vant", "type": "Adjektiv", "setning": "Hun er [vant] til å stå opp tidlig.", "oversettelse": "She is used to getting up early."}
+{"norsk": "vant", "type": "Adjektiv", "setning": "Vi er ikke [vant] til snø.", "oversettelse": "We are not used to snow."}
 {"norsk": "neste", "type": "Adjektiv", "setning": "Vi går av på [neste] stopp.", "oversettelse": "We get off at the next stop."}
+{"norsk": "neste", "type": "Adjektiv", "setning": "Vi ses [neste] uke.", "oversettelse": "See you next week."}
+{"norsk": "neste", "type": "Adjektiv", "setning": "Hvem er [neste]?", "oversettelse": "Who is next?"}
 {"norsk": "videre", "type": "Adjektiv", "setning": "Vi reiser [videre] i morgen.", "oversettelse": "We travel on further tomorrow."}
+{"norsk": "videre", "type": "Adjektiv", "setning": "Les [videre]!", "oversettelse": "Keep reading!"}
+{"norsk": "videre", "type": "Adjektiv", "setning": "Bussen kjører [videre] til Bergen.", "oversettelse": "The bus continues on to Bergen."}
 {"norsk": "sist", "type": "Adjektiv", "setning": "Dette er den [siste] bussen.", "oversettelse": "This is the last bus."}
+{"norsk": "sist", "type": "Adjektiv", "setning": "Han kommer alltid [sist].", "oversettelse": "He always comes last."}
+{"norsk": "sist", "type": "Adjektiv", "setning": "Det er [siste] dag på skolen.", "oversettelse": "It is the last day of school."}
 {"norsk": "rett", "type": "Adjektiv", "setning": "Du har [rett].", "oversettelse": "You are right."}
+{"norsk": "rett", "type": "Adjektiv", "setning": "Det er [rett] svar.", "oversettelse": "That is the right answer."}
+{"norsk": "rett", "type": "Adjektiv", "setning": "Er dette [rett] buss?", "oversettelse": "Is this the right bus?"}
 {"norsk": "riktig", "type": "Adjektiv", "setning": "Svaret er [riktig].", "oversettelse": "The answer is correct."}
+{"norsk": "riktig", "type": "Adjektiv", "setning": "Er det [riktig] at du flytter?", "oversettelse": "Is it true that you are moving?"}
+{"norsk": "riktig", "type": "Adjektiv", "setning": "Velg det [riktige] svaret.", "oversettelse": "Choose the correct answer."}
 {"norsk": "tidlig", "type": "Adjektiv", "setning": "Vi tar et [tidlig] fly.", "oversettelse": "We are taking an early flight."}
+{"norsk": "tidlig", "type": "Adjektiv", "setning": "Det er for [tidlig] å stå opp.", "oversettelse": "It is too early to get up."}
+{"norsk": "tidlig", "type": "Adjektiv", "setning": "Vi spiser en [tidlig] middag.", "oversettelse": "We eat an early dinner."}
 {"norsk": "mulig", "type": "Adjektiv", "setning": "Er det [mulig]?", "oversettelse": "Is it possible?"}
+{"norsk": "mulig", "type": "Adjektiv", "setning": "Det er ikke [mulig]!", "oversettelse": "It is not possible!"}
+{"norsk": "mulig", "type": "Adjektiv", "setning": "Kom så fort som [mulig].", "oversettelse": "Come as fast as possible."}
 {"norsk": "klar", "type": "Adjektiv", "setning": "Er du [klar]?", "oversettelse": "Are you ready?"}
+{"norsk": "klar", "type": "Adjektiv", "setning": "Middagen er [klar].", "oversettelse": "Dinner is ready."}
+{"norsk": "klar", "type": "Adjektiv", "setning": "Himmelen er [klar] i kveld.", "oversettelse": "The sky is clear tonight."}
 {"norsk": "andre", "type": "Adjektiv", "setning": "De [andre] barna leker ute.", "oversettelse": "The other children are playing outside."}
+{"norsk": "andre", "type": "Adjektiv", "setning": "Hvor er de [andre]?", "oversettelse": "Where are the others?"}
+{"norsk": "andre", "type": "Adjektiv", "setning": "De [andre] kommer senere.", "oversettelse": "The others are coming later."}
 {"norsk": "annen", "type": "Adjektiv", "setning": "Har du en [annen] farge?", "oversettelse": "Do you have another colour?"}
+{"norsk": "annen", "type": "Adjektiv", "setning": "Vi tar en [annen] vei hjem.", "oversettelse": "We take another way home."}
+{"norsk": "annen", "type": "Adjektiv", "setning": "Har du et [annet] forslag?", "oversettelse": "Do you have another suggestion?"}
 {"norsk": "egen", "type": "Adjektiv", "setning": "Hun har sitt [eget] rom.", "oversettelse": "She has her own room."}
+{"norsk": "egen", "type": "Adjektiv", "setning": "Jeg har min [egen] sykkel.", "oversettelse": "I have my own bike."}
+{"norsk": "egen", "type": "Adjektiv", "setning": "De har sitt [eget] hus.", "oversettelse": "They have their own house."}
 {"norsk": "enkelt", "type": "Adjektiv", "setning": "Det er [enkelt].", "oversettelse": "It is simple."}
+{"norsk": "enkelt", "type": "Adjektiv", "setning": "Svaret er [enkelt].", "oversettelse": "The answer is simple."}
+{"norsk": "enkelt", "type": "Adjektiv", "setning": "Hver [enkelt] elev får ei bok.", "oversettelse": "Each individual pupil gets a book."}
 {"norsk": "eneste", "type": "Adjektiv", "setning": "Han er det [eneste] barnet.", "oversettelse": "He is the only child."}
+{"norsk": "eneste", "type": "Adjektiv", "setning": "Hun er den [eneste] som vet det.", "oversettelse": "She is the only one who knows it."}
+{"norsk": "eneste", "type": "Adjektiv", "setning": "Det er min [eneste] sjanse.", "oversettelse": "It is my only chance."}
 {"norsk": "jo", "type": "Andre ord", "setning": "Liker du ikke fisk? [Jo]!", "oversettelse": "Don't you like fish? Yes, I do!"}
+{"norsk": "jo", "type": "Andre ord", "setning": "Har du ikke spist? [Jo], jeg har spist.", "oversettelse": "Haven't you eaten? Yes, I have."}
+{"norsk": "jo", "type": "Andre ord", "setning": "Er du ikke trøtt? [Jo]!", "oversettelse": "Aren't you tired? Yes, I am!"}
 {"norsk": "samme", "type": "Andre ord", "setning": "Vi bor i [samme] hus.", "oversettelse": "We live in the same house."}
+{"norsk": "samme", "type": "Andre ord", "setning": "Vi har [samme] lærer.", "oversettelse": "We have the same teacher."}
+{"norsk": "samme", "type": "Andre ord", "setning": "Hun kjøper den [samme] jakka.", "oversettelse": "She buys the same jacket."}
 {"norsk": "begge", "type": "Andre ord", "setning": "[Begge] barna er syke.", "oversettelse": "Both children are sick."}
+{"norsk": "begge", "type": "Andre ord", "setning": "Jeg liker [begge] to.", "oversettelse": "I like both of them."}
+{"norsk": "begge", "type": "Andre ord", "setning": "[Begge] foreldrene jobber.", "oversettelse": "Both parents work."}
 {"norsk": "egentlig", "type": "Andre ord", "setning": "Jeg er [egentlig] trøtt.", "oversettelse": "Actually, I am tired."}
+{"norsk": "egentlig", "type": "Andre ord", "setning": "Hva heter du [egentlig]?", "oversettelse": "What is your name, actually?"}
+{"norsk": "egentlig", "type": "Andre ord", "setning": "Jeg vil [egentlig] ikke gå.", "oversettelse": "I don't actually want to go."}
 {"norsk": "fleste", "type": "Andre ord", "setning": "[De fleste] liker sommeren.", "oversettelse": "Most people like summer."}
+{"norsk": "fleste", "type": "Andre ord", "setning": "[De fleste] elevene er her.", "oversettelse": "Most of the pupils are here."}
+{"norsk": "fleste", "type": "Andre ord", "setning": "[De fleste] nordmenn liker å gå på tur.", "oversettelse": "Most Norwegians like hiking."}
 {"norsk": "slags", "type": "Andre ord", "setning": "Det er [en slags] kake.", "oversettelse": "It is a kind of cake."}
+{"norsk": "slags", "type": "Andre ord", "setning": "Det er [en slags] fugl.", "oversettelse": "It is a kind of bird."}
+{"norsk": "slags", "type": "Andre ord", "setning": "Han har [et slags] kart.", "oversettelse": "He has some kind of map."}
 {"norsk": "i løpet av", "type": "Andre ord", "setning": "Jeg kommer [i løpet av] dagen.", "oversettelse": "I will come during the day."}
+{"norsk": "i løpet av", "type": "Andre ord", "setning": "Jeg ringer [i løpet av] uka.", "oversettelse": "I will call during the week."}
+{"norsk": "i løpet av", "type": "Andre ord", "setning": "Det snør mye [i løpet av] vinteren.", "oversettelse": "It snows a lot during the winter."}
 {"norsk": "i tillegg", "type": "Andre ord", "setning": "[I tillegg] trenger vi melk.", "oversettelse": "In addition, we need milk."}
+{"norsk": "i tillegg", "type": "Andre ord", "setning": "Vi kjøper brød og [i tillegg] ost.", "oversettelse": "We buy bread and cheese as well."}
+{"norsk": "i tillegg", "type": "Andre ord", "setning": "[I tillegg] har jeg en katt.", "oversettelse": "In addition, I have a cat."}
 {"norsk": "til slutt", "type": "Andre ord", "setning": "[Til slutt] går vi hjem.", "oversettelse": "Finally, we go home."}
+{"norsk": "til slutt", "type": "Andre ord", "setning": "[Til slutt] sover barnet.", "oversettelse": "Finally the child sleeps."}
+{"norsk": "til slutt", "type": "Andre ord", "setning": "Vi kommer [til slutt] fram.", "oversettelse": "In the end we arrive."}
 {"norsk": "av og til", "type": "Andre ord", "setning": "Jeg spiser fisk [av og til].", "oversettelse": "I eat fish sometimes."}
+{"norsk": "av og til", "type": "Andre ord", "setning": "[Av og til] regner det.", "oversettelse": "Sometimes it rains."}
+{"norsk": "av og til", "type": "Andre ord", "setning": "Hun kommer på besøk [av og til].", "oversettelse": "She comes to visit sometimes."}
 {"norsk": "i dag", "type": "Andre ord", "setning": "Det er kaldt [i dag].", "oversettelse": "It is cold today."}
+{"norsk": "i dag", "type": "Andre ord", "setning": "Hva gjør du [i dag]?", "oversettelse": "What are you doing today?"}
+{"norsk": "i dag", "type": "Andre ord", "setning": "[I dag] er det fredag.", "oversettelse": "Today it is Friday."}
 {"norsk": "i går", "type": "Andre ord", "setning": "Jeg var syk [i går].", "oversettelse": "I was sick yesterday."}
+{"norsk": "i går", "type": "Andre ord", "setning": "Hvor var du [i går]?", "oversettelse": "Where were you yesterday?"}
+{"norsk": "i går", "type": "Andre ord", "setning": "[I går] snødde det.", "oversettelse": "Yesterday it snowed."}
 {"norsk": "i fjor", "type": "Andre ord", "setning": "Vi var i Spania [i fjor].", "oversettelse": "We were in Spain last year."}
+{"norsk": "i fjor", "type": "Andre ord", "setning": "Hun begynte på skolen [i fjor].", "oversettelse": "She started school last year."}
+{"norsk": "i fjor", "type": "Andre ord", "setning": "[I fjor] bodde vi i Bergen.", "oversettelse": "Last year we lived in Bergen."}
 {"norsk": "bli med", "type": "Andre ord", "setning": "Vil du [bli med] på kino?", "oversettelse": "Do you want to come along to the cinema?"}
+{"norsk": "bli med", "type": "Andre ord", "setning": "Vil du [bli med] på tur?", "oversettelse": "Do you want to come along on a hike?"}
+{"norsk": "bli med", "type": "Andre ord", "setning": "Kan jeg [bli med] dere?", "oversettelse": "Can I come along with you?"}
 {"norsk": "for å", "type": "Andre ord", "setning": "Jeg lærer norsk [for å] jobbe i Norge.", "oversettelse": "I learn Norwegian in order to work in Norway."}
+{"norsk": "for å", "type": "Andre ord", "setning": "Jeg går ut [for å] handle.", "oversettelse": "I go out in order to shop."}
+{"norsk": "for å", "type": "Andre ord", "setning": "Hun spiser [for å] bli sterk.", "oversettelse": "She eats to get strong."}
 {"norsk": "på grunn av", "type": "Andre ord", "setning": "Vi blir hjemme [på grunn av] været.", "oversettelse": "We stay at home because of the weather."}
+{"norsk": "på grunn av", "type": "Andre ord", "setning": "Toget er sent [på grunn av] snøen.", "oversettelse": "The train is late because of the snow."}
+{"norsk": "på grunn av", "type": "Andre ord", "setning": "Skolen er stengt [på grunn av] stormen.", "oversettelse": "The school is closed because of the storm."}
 {"norsk": "år", "type": "Substantiver", "setning": "Hun er ti [år] gammel.", "oversettelse": "She is ten years old."}
+{"norsk": "år", "type": "Substantiver", "setning": "Vi har bodd her i tre [år].", "oversettelse": "We have lived here for three years."}
+{"norsk": "år", "type": "Substantiver", "setning": "Godt nytt [år]!", "oversettelse": "Happy New Year!"}
 {"norsk": "dag", "type": "Substantiver", "setning": "Jeg jobber hver [dag].", "oversettelse": "I work every day."}
+{"norsk": "dag", "type": "Substantiver", "setning": "Hvilken [dag] er det i morgen?", "oversettelse": "What day is it tomorrow?"}
+{"norsk": "dag", "type": "Substantiver", "setning": "Ha en fin [dag]!", "oversettelse": "Have a nice day!"}
 {"norsk": "kveld", "type": "Substantiver", "setning": "Vi ser på TV i [kveld].", "oversettelse": "We are watching TV this evening."}
+{"norsk": "kveld", "type": "Substantiver", "setning": "God [kveld]!", "oversettelse": "Good evening!"}
+{"norsk": "kveld", "type": "Substantiver", "setning": "Hva gjør du på [kvelden]?", "oversettelse": "What do you do in the evening?"}
 {"norsk": "barn", "type": "Substantiver", "setning": "De har to [barn].", "oversettelse": "They have two children."}
+{"norsk": "barn", "type": "Substantiver", "setning": "[Barnet] sover nå.", "oversettelse": "The child is sleeping now."}
+{"norsk": "barn", "type": "Substantiver", "setning": "[Barna] spiller fotball.", "oversettelse": "The children are playing football."}
 {"norsk": "mor", "type": "Substantiver", "setning": "[Mora] mi heter Anna.", "oversettelse": "My mother is called Anna."}
+{"norsk": "mor", "type": "Substantiver", "setning": "Jeg ringer [mora] mi hver søndag.", "oversettelse": "I call my mother every Sunday."}
+{"norsk": "mor", "type": "Substantiver", "setning": "Hun er [mor] til tre barn.", "oversettelse": "She is the mother of three children."}
 {"norsk": "far", "type": "Substantiver", "setning": "[Faren] min er lærer.", "oversettelse": "My father is a teacher."}
+{"norsk": "far", "type": "Substantiver", "setning": "[Far] lager frokost.", "oversettelse": "Dad makes breakfast."}
+{"norsk": "far", "type": "Substantiver", "setning": "Han er en god [far].", "oversettelse": "He is a good father."}
 {"norsk": "mann", "type": "Substantiver", "setning": "[Mannen] leser avisa.", "oversettelse": "The man is reading the newspaper."}
+{"norsk": "mann", "type": "Substantiver", "setning": "Det står en [mann] ved døra.", "oversettelse": "There is a man standing by the door."}
+{"norsk": "mann", "type": "Substantiver", "setning": "[Mannen] min heter Per.", "oversettelse": "My husband is called Per."}
 {"norsk": "kvinne", "type": "Substantiver", "setning": "Hun er ei sterk [kvinne].", "oversettelse": "She is a strong woman."}
+{"norsk": "kvinne", "type": "Substantiver", "setning": "[Kvinna] jobber på sykehuset.", "oversettelse": "The woman works at the hospital."}
+{"norsk": "kvinne", "type": "Substantiver", "setning": "Det er tre [kvinner] i laget.", "oversettelse": "There are three women on the team."}
 {"norsk": "jente", "type": "Substantiver", "setning": "[Jenta] leker i hagen.", "oversettelse": "The girl is playing in the garden."}
+{"norsk": "jente", "type": "Substantiver", "setning": "Hun er ei glad [jente].", "oversettelse": "She is a happy girl."}
+{"norsk": "jente", "type": "Substantiver", "setning": "[Jentene] går på samme skole.", "oversettelse": "The girls go to the same school."}
 {"norsk": "gutt", "type": "Substantiver", "setning": "[Gutten] spiser et eple.", "oversettelse": "The boy is eating an apple."}
+{"norsk": "gutt", "type": "Substantiver", "setning": "Han er en snill [gutt].", "oversettelse": "He is a kind boy."}
+{"norsk": "gutt", "type": "Substantiver", "setning": "[Guttene] løper til bussen.", "oversettelse": "The boys run to the bus."}
 {"norsk": "liv", "type": "Substantiver", "setning": "[Livet] er fint.", "oversettelse": "Life is good."}
+{"norsk": "liv", "type": "Substantiver", "setning": "Hun har et godt [liv].", "oversettelse": "She has a good life."}
+{"norsk": "liv", "type": "Substantiver", "setning": "Katten har ni [liv].", "oversettelse": "The cat has nine lives."}
 {"norsk": "ting", "type": "Substantiver", "setning": "Jeg har mange [ting] i veska.", "oversettelse": "I have many things in my bag."}
+{"norsk": "ting", "type": "Substantiver", "setning": "Hun kjøper mange [ting].", "oversettelse": "She buys many things."}
+{"norsk": "ting", "type": "Substantiver", "setning": "Det er en fin [ting] å si.", "oversettelse": "That is a nice thing to say."}
 {"norsk": "hus", "type": "Substantiver", "setning": "Vi bor i et rødt [hus].", "oversettelse": "We live in a red house."}
+{"norsk": "hus", "type": "Substantiver", "setning": "[Huset] har fire rom.", "oversettelse": "The house has four rooms."}
+{"norsk": "hus", "type": "Substantiver", "setning": "De kjøper et nytt [hus].", "oversettelse": "They are buying a new house."}
 {"norsk": "skole", "type": "Substantiver", "setning": "Barna går på [skolen].", "oversettelse": "The children go to school."}
+{"norsk": "skole", "type": "Substantiver", "setning": "Jeg går på [skole] i Oslo.", "oversettelse": "I go to school in Oslo."}
+{"norsk": "skole", "type": "Substantiver", "setning": "[Skolen] ligger nær huset vårt.", "oversettelse": "The school is near our house."}
 {"norsk": "by", "type": "Substantiver", "setning": "Bergen er en fin [by].", "oversettelse": "Bergen is a nice city."}
+{"norsk": "by", "type": "Substantiver", "setning": "Oslo er en stor [by].", "oversettelse": "Oslo is a big city."}
+{"norsk": "by", "type": "Substantiver", "setning": "Vi bor midt i [byen].", "oversettelse": "We live in the middle of the city."}
 {"norsk": "hånd", "type": "Substantiver", "setning": "Jeg har vondt i [hånda].", "oversettelse": "My hand hurts."}
+{"norsk": "hånd", "type": "Substantiver", "setning": "Han gir meg [hånda].", "oversettelse": "He shakes my hand."}
+{"norsk": "hånd", "type": "Substantiver", "setning": "Jeg skriver med venstre [hånd].", "oversettelse": "I write with my left hand."}
 {"norsk": "arbeid", "type": "Substantiver", "setning": "Han har mye [arbeid] i dag.", "oversettelse": "He has a lot of work today."}
+{"norsk": "arbeid", "type": "Substantiver", "setning": "[Arbeidet] tar to timer.", "oversettelse": "The work takes two hours."}
+{"norsk": "arbeid", "type": "Substantiver", "setning": "Han leter etter [arbeid].", "oversettelse": "He is looking for work."}
 {"norsk": "hjelp", "type": "Substantiver", "setning": "Takk for [hjelpen]!", "oversettelse": "Thanks for the help!"}
+{"norsk": "hjelp", "type": "Substantiver", "setning": "Trenger du [hjelp]?", "oversettelse": "Do you need help?"}
+{"norsk": "hjelp", "type": "Substantiver", "setning": "Hun ber om [hjelp].", "oversettelse": "She asks for help."}
 {"norsk": "dør", "type": "Substantiver", "setning": "Kan du lukke [døra]?", "oversettelse": "Can you close the door?"}
+{"norsk": "dør", "type": "Substantiver", "setning": "[Døra] er åpen.", "oversettelse": "The door is open."}
+{"norsk": "dør", "type": "Substantiver", "setning": "Lukk [døra], er du snill.", "oversettelse": "Close the door, please."}
 {"norsk": "jeg", "type": "Pronomener", "setning": "[Jeg] heter Ola.", "oversettelse": "My name is Ola."}
+{"norsk": "jeg", "type": "Pronomener", "setning": "[Jeg] er sulten.", "oversettelse": "I am hungry."}
+{"norsk": "jeg", "type": "Pronomener", "setning": "[Jeg] liker å lese.", "oversettelse": "I like to read."}
 {"norsk": "du", "type": "Pronomener", "setning": "Hvor bor [du]?", "oversettelse": "Where do you live?"}
+{"norsk": "du", "type": "Pronomener", "setning": "Kan [du] hjelpe meg?", "oversettelse": "Can you help me?"}
+{"norsk": "du", "type": "Pronomener", "setning": "Snakker [du] engelsk?", "oversettelse": "Do you speak English?"}
 {"norsk": "han", "type": "Pronomener", "setning": "[Han] er broren min.", "oversettelse": "He is my brother."}
+{"norsk": "han", "type": "Pronomener", "setning": "[Han] bor i Bergen.", "oversettelse": "He lives in Bergen."}
+{"norsk": "han", "type": "Pronomener", "setning": "[Han] heter Ole.", "oversettelse": "His name is Ole."}
 {"norsk": "hun", "type": "Pronomener", "setning": "[Hun] snakker norsk.", "oversettelse": "She speaks Norwegian."}
+{"norsk": "hun", "type": "Pronomener", "setning": "[Hun] er lærer.", "oversettelse": "She is a teacher."}
+{"norsk": "hun", "type": "Pronomener", "setning": "Hvor bor [hun]?", "oversettelse": "Where does she live?"}
 {"norsk": "vi", "type": "Pronomener", "setning": "[Vi] spiser middag nå.", "oversettelse": "We are eating dinner now."}
+{"norsk": "vi", "type": "Pronomener", "setning": "[Vi] har en hund.", "oversettelse": "We have a dog."}
+{"norsk": "vi", "type": "Pronomener", "setning": "Skal [vi] gå en tur?", "oversettelse": "Shall we go for a walk?"}
 {"norsk": "dere", "type": "Pronomener", "setning": "Kommer [dere] i kveld?", "oversettelse": "Are you all coming tonight?"}
+{"norsk": "dere", "type": "Pronomener", "setning": "Hvor bor [dere]?", "oversettelse": "Where do you all live?"}
+{"norsk": "dere", "type": "Pronomener", "setning": "Vil [dere] ha kaffe?", "oversettelse": "Would you all like coffee?"}
 {"norsk": "de", "type": "Pronomener", "setning": "[De] bor i Oslo.", "oversettelse": "They live in Oslo."}
+{"norsk": "de", "type": "Pronomener", "setning": "[De] har tre barn.", "oversettelse": "They have three children."}
+{"norsk": "de", "type": "Pronomener", "setning": "Hvor er [de] nå?", "oversettelse": "Where are they now?"}
 {"norsk": "det finnes", "type": "Verb", "setning": "[Det finnes] mange fjell i Norge.", "oversettelse": "There are many mountains in Norway."}
+{"norsk": "det finnes", "type": "Verb", "setning": "[Det finnes] ingen melk i kjøleskapet.", "oversettelse": "There is no milk in the fridge."}
+{"norsk": "det finnes", "type": "Verb", "setning": "[Det finnes] mange gode bøker.", "oversettelse": "There are many good books."}
 {"norsk": "bak", "type": "Adverb", "setning": "Han sitter [bak] i bilen.", "oversettelse": "He is sitting in the back of the car."}
+{"norsk": "bak", "type": "Adverb", "setning": "Barna sitter [bak].", "oversettelse": "The children sit in the back."}
+{"norsk": "bak", "type": "Adverb", "setning": "Det er plass [bak] i bussen.", "oversettelse": "There is room at the back of the bus."}
 {"norsk": "bort", "type": "Adverb", "setning": "Hunden løper [bort].", "oversettelse": "The dog runs away."}
+{"norsk": "bort", "type": "Adverb", "setning": "Hun går [bort] til vinduet.", "oversettelse": "She walks over to the window."}
+{"norsk": "bort", "type": "Adverb", "setning": "Legg [bort] telefonen!", "oversettelse": "Put the phone away!"}
