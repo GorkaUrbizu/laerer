@@ -406,20 +406,19 @@ def main():
                         help="disable colored output")
     parser.add_argument("--list-types", action="store_true",
                         help="list available word types and exit")
-    parser.add_argument("--flag", choices=("auto", "right", "below"),
-                        default="auto",
-                        help="where the perfect-score surprise goes: right of "
-                             "the results, below them, or auto (right if the "
+    parser.add_argument("--flag", nargs="?", const="auto",
+                        choices=("auto", "right", "below"),
+                        help="turn on the perfect-score surprise, optionally "
+                             "saying where it goes: right of the results, "
+                             "below them, or auto (default: right if the "
                              "terminal is wide enough)")
-    parser.add_argument("--noflag", "--no-flag", action="store_true",
-                        help="turn off the perfect-score surprise")
     # Hidden: preview the perfect-score board without playing.
     parser.add_argument("--flagg", action="store_true", help=argparse.SUPPRESS)
     args = parser.parse_args()
 
     Style.enabled = (not args.no_color and sys.stdout.isatty()
                      and "NO_COLOR" not in os.environ)
-    flag = None if args.noflag else args.flag
+    flag = args.flag
 
     if args.questions < 1:
         parser.error("--questions must be at least 1")
@@ -431,7 +430,7 @@ def main():
         sample = random.sample(words, min(args.questions, len(words)))
         results = [{"word": w, "given": w, "reverse": False, "ok": True}
                    for w in sample]
-        show_results(results, len(results), flag)
+        show_results(results, len(results), flag or "auto")
         return
 
     if args.list_types:

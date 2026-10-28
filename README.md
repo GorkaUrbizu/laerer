@@ -48,8 +48,7 @@ questions answered so far are still shown.
 | `--no-sentences`   | Show only the word, without the example sentence   |
 | `--list-types`     | List word types and counts, then exit              |
 | `--no-color`       | Disable colors (also honors the `NO_COLOR` env var) |
-| `--flag POS`       | Where a perfect-score surprise appears: `right` of the results, `below`, or `auto` (default: right if the terminal is wide enough) |
-| `--noflag`         | Turn off the perfect-score surprise                |
+| `--flag [POS]`     | Turn on a surprise for a perfect score (off by default). `POS` says where it appears: `right` of the results, `below`, or `auto` (default: right if the terminal is wide enough) |
 
 Word types can be given in English (`verb`, `noun`, `adjective`, `adverb`,
 `preposition`, `conjunction`, `pronoun`, `question word`, `other`) or with the
